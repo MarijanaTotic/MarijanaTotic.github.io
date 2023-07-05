@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://marijanatotic.github.io/al-folio/sitemap.xml
+Sitemap: https://marijanatotic.github.io/sitemap.xml
