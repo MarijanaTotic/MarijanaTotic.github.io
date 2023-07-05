@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://marijanatotic.github.io/sitemap.xml
+Sitemap: https://MarijanaTotic.github.io/sitemap.xml
