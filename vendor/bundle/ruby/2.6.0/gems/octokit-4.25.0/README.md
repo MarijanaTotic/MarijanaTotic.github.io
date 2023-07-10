@@ -220,7 +220,7 @@ client.create_authorization(:scopes => ["user"], :note => "Name of token")
 
 ### Two-Factor Authentication
 
-[Two-Factor Authentication](https://help.github.com/articles/about-two-factor-authentication) brings added security to the account by requiring more information to login.
+[Two-Factor Authentication](https://help.github.com/articles/About-two-factor-authentication) brings added security to the account by requiring more information to login.
 
 Using two-factor authentication for API calls is as simple as adding the [required header](http://developer.github.com/v3/auth/#working-with-two-factor-authentication) as an option:
 

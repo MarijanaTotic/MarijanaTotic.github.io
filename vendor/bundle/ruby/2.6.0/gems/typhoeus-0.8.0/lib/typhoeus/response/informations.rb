@@ -1,7 +1,7 @@
 module Typhoeus
   class Response
 
-    # This module contains logic about informations
+    # This module contains logic About informations
     # on a response.
     module Informations
 
@@ -123,7 +123,7 @@ module Typhoeus
       alias :app_connect_time :appconnect_time
 
       # Return the time, in seconds, it took from the start
-      # until the file transfer is just about to begin. This
+      # until the file transfer is just About to begin. This
       # includes all pre-transfer commands and negotiations
       # that are specific to the particular protocol(s) involved.
       # It does not involve the sending of the protocol-

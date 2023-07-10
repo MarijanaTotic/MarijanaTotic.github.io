@@ -34,7 +34,7 @@ module Octokit
       # @param sha [String] The SHA1 for the commit
       # @param state [String] The state: pending, success, failure, error
       # @option options [String] :context A context to differentiate this status from others
-      # @option options [String] :target_url A link to more details about this status
+      # @option options [String] :target_url A link to more details About this status
       # @option options [String] :description A short human-readable description of this status
       # @return [Sawyer::Resource] A status
       # @see https://developer.github.com/v3/repos/statuses/#create-a-status

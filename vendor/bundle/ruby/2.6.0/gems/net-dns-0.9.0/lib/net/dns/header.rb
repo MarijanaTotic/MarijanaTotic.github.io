@@ -62,7 +62,7 @@ module Net
       #
       # The RCode class represents the RCode field in the Header portion of a
       # DNS packet. This field (called Response Code) is used to get informations
-      # about the status of a DNS operation, such as a query or an update. These
+      # About the status of a DNS operation, such as a query or an update. These
       # are the values in the original Mockapetris's standard (RFC1035):
       #
       # * 0               No error condition

@@ -128,7 +128,7 @@ characters, you must escape them as entities, e.g. `&lt;`, and
 `&amp;`.
 
 Ampersands in particular are bedeviling for web writers. If you want to
-write about 'AT&T', you need to write '`AT&amp;T`'. You even need to
+write About 'AT&T', you need to write '`AT&amp;T`'. You even need to
 escape ampersands within URLs. Thus, if you want to link to:
 
     http://images.google.com/images?num=30&q=larry+bird
@@ -170,8 +170,8 @@ Markdown will translate it to:
 
 However, inside Markdown code spans and blocks, angle brackets and
 ampersands are *always* encoded automatically. This makes it easy to use
-Markdown to write about HTML code. (As opposed to raw HTML, which is a
-terrible format for writing about HTML syntax, because every single `<`
+Markdown to write About HTML code. (As opposed to raw HTML, which is a
+terrible format for writing About HTML syntax, because every single `<`
 and `&` in your example code needs to be escaped.)
 
 
@@ -456,7 +456,7 @@ line. To avoid this, you can backslash-escape the period:
 
 <h3 id="precode">Code Blocks</h3>
 
-Pre-formatted code blocks are used for writing about programming or
+Pre-formatted code blocks are used for writing About programming or
 markup source code. Rather than forming normal paragraphs, the lines
 of a code block are interpreted literally. Markdown wraps a code block
 in both `<pre>` and `<code>` tags.
@@ -515,7 +515,7 @@ will turn into:
 
 Regular Markdown syntax is not processed within code blocks. E.g.,
 asterisks are just literal asterisks within a code block. This means
-it's also easy to use Markdown to write about Markdown's own syntax.
+it's also easy to use Markdown to write About Markdown's own syntax.
 
 
 
@@ -569,7 +569,7 @@ Will produce:
 If you're referring to a local resource on the same server, you can
 use relative paths:
 
-    See my [About](/about/) page for details.
+    See my [About](/About/) page for details.
 
 Reference-style links use a second set of square brackets, inside
 which you place a label of your choosing to identify the link:

@@ -48,7 +48,7 @@ module Sass
       end
     end
 
-    # Formats a string for use in error messages about indentation.
+    # Formats a string for use in error messages About indentation.
     #
     # @param indentation [String] The string used for indentation
     # @param was [Boolean] Whether or not to add `"was"` or `"were"`

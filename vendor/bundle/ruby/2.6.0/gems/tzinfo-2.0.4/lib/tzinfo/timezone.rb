@@ -534,7 +534,7 @@ module TZInfo
     # {DateTimeWithOffset} (if passed a `DateTime`) or {TimestampWithOffset} (if
     # passed a {Timestamp}). {TimeWithOffset}, {DateTimeWithOffset} and
     # {TimestampWithOffset} are subclasses of `Time`, `DateTime` and {Timestamp}
-    # that provide additional information about the local result.
+    # that provide additional information About the local result.
     #
     # Unlike {utc_to_local}, {to_local} takes the UTC offset of the given time
     # into consideration.
@@ -559,7 +559,7 @@ module TZInfo
     # {DateTimeWithOffset} (if passed a `DateTime`) or {TimestampWithOffset} (if
     # passed a {Timestamp}). {TimeWithOffset}, {DateTimeWithOffset} and
     # {TimestampWithOffset} are subclasses of `Time`, `DateTime` and {Timestamp}
-    # that provide additional information about the local result.
+    # that provide additional information About the local result.
     #
     # The UTC offset of the `utc_time` parameter is ignored (it is treated as a
     # UTC time). Use the {to_local} method instead if the the UTC offset of the

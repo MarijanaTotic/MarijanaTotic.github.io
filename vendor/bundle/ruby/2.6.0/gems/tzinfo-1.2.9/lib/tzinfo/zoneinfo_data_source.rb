@@ -260,7 +260,7 @@ module TZInfo
       @country_index.keys.freeze
     end
     
-    # Returns the name and information about this DataSource.
+    # Returns the name and information About this DataSource.
     def to_s
       "Zoneinfo DataSource: #{@zoneinfo_dir}"
     end

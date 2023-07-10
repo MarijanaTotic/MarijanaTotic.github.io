@@ -58,7 +58,7 @@ module HTML
       UsernamePattern = /[a-z0-9][a-z0-9-]*/
 
       # List of username logins that, when mentioned, link to the blog post
-      # about @mentions instead of triggering a real mention.
+      # About @mentions instead of triggering a real mention.
       MentionLogins = %w[
         mention
         mentions

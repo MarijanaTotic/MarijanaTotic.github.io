@@ -101,7 +101,7 @@ Layout/EmptyLinesAroundModuleBody:
 Layout/EmptyLineBetweenDefs:
   Enabled: false
 
-# I personally don't care about the format style.
+# I personally don't care About the format style.
 # In most cases I like to use %, but not at the point I want to enforce it
 # as a convention in the entire code.
 Style/FormatString:

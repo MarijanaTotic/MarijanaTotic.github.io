@@ -1,5 +1,5 @@
 module TZInfo
-  # A Timezone within a Country. This contains extra information about the
+  # A Timezone within a Country. This contains extra information About the
   # Timezone that is specific to the Country (a Timezone could be used by
   # multiple countries).
   class CountryTimezone

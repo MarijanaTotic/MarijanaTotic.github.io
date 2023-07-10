@@ -125,13 +125,13 @@ Define your tests as methods beginning with +test_+.
       @meme = Meme.new
     end
 
-    describe "when asked about cheeseburgers" do
+    describe "when asked About cheeseburgers" do
       it "must respond positively" do
         _(@meme.i_can_has_cheezburger?).must_equal "OHAI!"
       end
     end
 
-    describe "when asked about blending possibilities" do
+    describe "when asked About blending possibilities" do
       it "won't say no" do
         _(@meme.will_it_blend?).wont_match /^no/i
       end
@@ -680,7 +680,7 @@ minitest-hyper              :: Pretty, single-page HTML reports for your Minites
 minitest-implicit-subject   :: Implicit declaration of the test subject.
 minitest-instrument         :: Instrument ActiveSupport::Notifications when
                                test method is executed.
-minitest-instrument-db      :: Store information about speed of test execution
+minitest-instrument-db      :: Store information About speed of test execution
                                provided by minitest-instrument in database.
 minitest-junit              :: JUnit-style XML reporter for minitest.
 minitest-keyword            :: Use Minitest assertions with keyword arguments.

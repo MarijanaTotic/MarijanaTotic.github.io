@@ -1,7 +1,7 @@
 module Typhoeus
   class Request
 
-    # Module containing logic about shortcuts to
+    # Module containing logic About shortcuts to
     # http methods. Like
     #   Typhoeus.get("www.example.com")
     module Actions

@@ -7,7 +7,7 @@ sort_info: 1
 
 If you want to get started with kramdown, have a look at the [installation page](installation.html)
 to see how you can install it on your system. Then look through the
-[documentation](documentation.html) for finding information about how to actually use kramdown and
+[documentation](documentation.html) for finding information About how to actually use kramdown and
 its parsers/converters. The [quick reference](quickref.html) provides a overview of the syntax -- if
 you need a more detailed description of the superset of Markdown which kramdown supports the [syntax
 page](syntax.html) is the place to go!
@@ -94,8 +94,8 @@ completely written in Ruby, supports standard Markdown (with some minor modifica
 extensions that have been made popular by the [PHP Markdown Extra] package and [Maruku].
 {:itemprop="description"}
 
-It is probably the fastest pure-Ruby Markdown converter available (September 2014), being about 3x
-faster than [Maruku] and about 4.5x faster than [BlueFeather].
+It is probably the fastest pure-Ruby Markdown converter available (September 2014), being About 3x
+faster than [Maruku] and About 4.5x faster than [BlueFeather].
 
 Version **1.11.1**{:itemprop="softwareVersion"} released on
 **2016-05-01**{:itemprop="datePublished"}, [more news](news.html)

@@ -37,7 +37,7 @@
 
   * Consolidate regexps for stripping whitespace (#82)
   * Only test against Jekyll 3 (#99)
-  * Think about how i18n might work (#75)
+  * Think About how i18n might work (#75)
   * Find author by reference (#106)
   * Drop support for Jekyll 2 (#105)
   * Add support for post image (#104)

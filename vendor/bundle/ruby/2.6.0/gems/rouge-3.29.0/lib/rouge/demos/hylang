@@ -1,5 +1,5 @@
 (defn simple-conversation []
-   (print "Hello!  I'd like to get to know you.  Tell me about yourself!")
+   (print "Hello!  I'd like to get to know you.  Tell me About yourself!")
    (setv name (input "What is your name? "))
    (let [age (input "What is your age? ")]
      (if (and age

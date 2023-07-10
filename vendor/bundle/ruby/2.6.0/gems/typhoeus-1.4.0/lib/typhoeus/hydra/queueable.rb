@@ -20,7 +20,7 @@ module Typhoeus
       # Abort the current hydra run as good as
       # possible. This means that it only
       # clears the queued requests and can't do
-      # anything about already running requests.
+      # anything About already running requests.
       #
       # @example Abort hydra.
       #   hydra.abort

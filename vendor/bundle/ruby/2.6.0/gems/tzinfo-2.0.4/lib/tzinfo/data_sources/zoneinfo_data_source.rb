@@ -252,7 +252,7 @@ module TZInfo
         @timezone_identifiers
       end
 
-      # Returns an empty `Array`. There is no information about linked/aliased
+      # Returns an empty `Array`. There is no information About linked/aliased
       # time zones in the zoneinfo files. When using {ZoneinfoDataSource}, every
       # time zone will be returned as a {DataTimezone}.
       #

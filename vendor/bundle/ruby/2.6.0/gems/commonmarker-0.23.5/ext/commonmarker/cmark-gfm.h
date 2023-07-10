@@ -229,7 +229,7 @@ CMARK_GFM_EXPORT cmark_node *cmark_node_last_child(cmark_node *node);
  * ## Iterator
  *
  * An iterator will walk through a tree of nodes, starting from a root
- * node, returning one node at a time, together with information about
+ * node, returning one node at a time, together with information About
  * whether the node is being entered or exited.  The iterator will
  * first descend to a child node, if there is one.  When there is no
  * child, the iterator will go to the next sibling.  When there is no

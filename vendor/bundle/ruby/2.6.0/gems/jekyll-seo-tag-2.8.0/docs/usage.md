@@ -6,7 +6,7 @@ they're not defined):
 * `title` - Your site's title (e.g., *Ben's Awesome Site*, *The GitHub Blog*, etc.), used as part of the title tag like
 `Home | Ben's Awesome Site`.
 * `tagline` - A short description (e.g., *A blog dedicated to reviewing cat gifs*), used as part of the title tag like
-`Ben's Awesome Site | A blog dedicated to reviewing cat gifs` instead of `Ben's Awesome Site | Long description about a
+`Ben's Awesome Site | A blog dedicated to reviewing cat gifs` instead of `Ben's Awesome Site | Long description About a
 blog dedicated to reviewing cat gifs` that would be used when `page.title` is not defined.
 * `description` - A longer description used for the description meta tag. Also used as fallback for pages that don't
 provide their own `description`, and also as part of the page's title tag if neither `page.title` nor `site.tagline`

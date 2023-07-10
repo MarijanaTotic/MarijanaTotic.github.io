@@ -10,7 +10,7 @@
  * an incorrect value returned by realpath() prevents FSEvents from seeing any
  * change events.
  *
- * See the discussion at https://github.com/thibaudgg/rb-fsevent/issues/10 about
+ * See the discussion at https://github.com/thibaudgg/rb-fsevent/issues/10 About
  * the history of this bug and how this library came to exist.
  *
  * This library uses Facebook's fishhook to replace a custom implementation of
@@ -24,7 +24,7 @@
  * Include FSEventsFix.{h,c} into your project and call FSEventsFixInstall().
  *
  * It is recommended that you install FSEventsFix on demand, using FSEventsFixIsBroken
- * to check if the folder you're about to pass to FSEventStreamCreate needs the fix.
+ * to check if the folder you're About to pass to FSEventStreamCreate needs the fix.
  * Note that the fix must be applied before calling FSEventStreamCreate.
  *
  * FSEventsFixIsBroken requires a path that uses the correct case for all folder names,

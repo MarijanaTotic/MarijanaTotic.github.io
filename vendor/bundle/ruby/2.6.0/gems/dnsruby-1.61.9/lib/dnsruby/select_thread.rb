@@ -581,7 +581,7 @@ module Dnsruby
     end
 
     def handle_recvfrom_failure(socket, exception)
-      #   No way to notify the client about this error, unless there was only one connection on the socket
+      #   No way to notify the client About this error, unless there was only one connection on the socket
       #  Not a problem, as there only will ever be one connection on the socket (Kaminsky attack mitigation)
       ids_for_socket = []
       @@mutex.synchronize{

@@ -82,7 +82,7 @@ ffi_call_int (ffi_cif *cif,
      them in memory.
 
      We bounce-buffer SYSV small struct return values so that sysv.S
-     can write r3 and r4 to memory without worrying about struct size.
+     can write r3 and r4 to memory without worrying About struct size.
    
      For ELFv2 ABI, use a bounce buffer for homogeneous structs too,
      for similar reasons. This bounce buffer must be aligned to 16

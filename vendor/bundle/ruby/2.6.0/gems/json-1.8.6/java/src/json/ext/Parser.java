@@ -3,7 +3,7 @@
 /*
  * This code is copyrighted work by Daniel Luz <dev at mernen dot com>.
  *
- * Distributed under the Ruby license: https://www.ruby-lang.org/en/about/license.txt
+ * Distributed under the Ruby license: https://www.ruby-lang.org/en/About/license.txt
  */
 package json.ext;
 
@@ -312,7 +312,7 @@ public class Parser extends RubyObject {
         private final DoubleConverter dc;
 
         // initialization value for all state variables.
-        // no idea about the origins of this value, ask Flori ;)
+        // no idea About the origins of this value, ask Flori ;)
         private static final int EVIL = 0x666;
 
         private ParserSession(Parser parser, ThreadContext context, RuntimeInfo info) {

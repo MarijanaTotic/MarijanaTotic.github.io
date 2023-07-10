@@ -56,7 +56,7 @@ module ActiveSupport
   #     include Bar # Bar is the module that Host really needs
   #   end
   #
-  # But why should +Host+ care about +Bar+'s dependencies, namely +Foo+? We
+  # But why should +Host+ care About +Bar+'s dependencies, namely +Foo+? We
   # could try to hide these from +Host+ directly including +Foo+ in +Bar+:
   #
   #   module Bar

@@ -23,7 +23,7 @@
   You don't really need this .h file unless you call functions not
   defined in your system include files.  The .h file contains only the
   excerpts from this file needed for using this malloc on ANSI C/C++
-  systems, so long as you haven't changed compile-time options about
+  systems, so long as you haven't changed compile-time options About
   naming and tuning parameters.  If you do, then you can create your
   own malloc.h that does include all settings by cutting at the point
   indicated below. Note that you may already by default be using a C
@@ -60,7 +60,7 @@
        The maximum overhead wastage (i.e., number of extra bytes
        allocated than were requested in malloc) is less than or equal
        to the minimum size, except for requests >= mmap_threshold that
-       are serviced via mmap(), where the worst case wastage is about
+       are serviced via mmap(), where the worst case wastage is About
        32 bytes plus the remainder from a system page (the minimal
        mmap unit); typically 4096 or 8192 bytes.
 
@@ -160,8 +160,8 @@
   inlining modular code as can now be done by brute-force expansion,
   but now, enough of them seem not to.
 
-  Some compilers issue a lot of warnings about code that is
-  dead/unreachable only on some platforms, and also about intentional
+  Some compilers issue a lot of warnings About code that is
+  dead/unreachable only on some platforms, and also About intentional
   uses of negation on unsigned types. All known cases of each can be
   ignored.
 
@@ -974,7 +974,7 @@ int  dlmalloc_trim(size_t);
   Returns the number of bytes you can actually use in
   an allocated chunk, which may be more than you requested (although
   often not) due to alignment and minimum size constraints.
-  You can use this many bytes without worrying about
+  You can use this many bytes without worrying About
   overwriting other allocated objects. This is not a particularly great
   programming practice. malloc_usable_size can be more useful in
   debugging and assertions, for example:
@@ -2291,7 +2291,7 @@ static size_t traverse_and_check(mstate m);
 #define small_index2size(i) ((i)  << SMALLBIN_SHIFT)
 #define MIN_SMALL_INDEX     (small_index(MIN_CHUNK_SIZE))
 
-/* addressing by index. See above about smallbin repositioning */
+/* addressing by index. See above About smallbin repositioning */
 #define smallbin_at(M, i)   ((sbinptr)((char*)&((M)->smallbins[(i)<<1])))
 #define treebin_at(M,i)     (&((M)->treebins[i]))
 
@@ -3311,7 +3311,7 @@ static void init_bins(mstate m) {
 static void reset_on_error(mstate m) {
   int i;
   ++malloc_corruption_error_count;
-  /* Reinitialize fields to forget about all memory */
+  /* Reinitialize fields to forget About all memory */
   m->smallbins = m->treebins = 0;
   m->dvsize = m->topsize = 0;
   m->seg.base = 0;
@@ -5101,7 +5101,7 @@ History:
       * Support another case of realloc via move into top
       * Fix error occurring when initial sbrk_base not word-aligned.
       * Rely on page size for units instead of SBRK_UNIT to
-        avoid surprises about sbrk alignment conventions.
+        avoid surprises About sbrk alignment conventions.
       * Add mallinfo, mallopt. Thanks to Raymond Nijssen
         (raymond@es.ele.tue.nl) for the suggestion.
       * Add `pad' argument to malloc_trim and top_pad mallopt parameter.

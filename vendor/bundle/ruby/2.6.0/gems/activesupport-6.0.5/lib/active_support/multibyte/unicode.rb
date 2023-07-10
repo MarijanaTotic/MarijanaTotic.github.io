@@ -7,7 +7,7 @@ module ActiveSupport
 
       # A list of all available normalization forms.
       # See https://www.unicode.org/reports/tr15/tr15-29.html for more
-      # information about normalization.
+      # information About normalization.
       NORMALIZATION_FORMS = [:c, :kc, :d, :kd]
 
       NORMALIZATION_FORM_ALIASES = { # :nodoc:

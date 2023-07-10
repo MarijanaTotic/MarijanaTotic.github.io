@@ -1,7 +1,7 @@
 Feature: Parse BibTeX preambles
 	As a hacker who works with bibliographies
 	I want to be able to parse BibTeX files with entries
-	Because that's what BibTeX is all about
+	Because that's what BibTeX is all About
 
 	Scenario: A BibTeX file with three books
 		When I parse the following file:

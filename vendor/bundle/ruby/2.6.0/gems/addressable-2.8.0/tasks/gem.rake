@@ -46,7 +46,7 @@ namespace :gem do
     end
   end
 
-  desc "Show information about the gem"
+  desc "Show information About the gem"
   task :debug do
     puts GEM_SPEC.to_ruby
   end

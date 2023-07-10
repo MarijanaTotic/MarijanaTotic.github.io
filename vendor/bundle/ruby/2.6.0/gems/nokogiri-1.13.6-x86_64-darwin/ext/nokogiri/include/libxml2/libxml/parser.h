@@ -210,7 +210,7 @@ struct _xmlParserCtxt {
     xmlNodePtr        *nodeTab;       /* array of nodes */
 
     int record_info;                  /* Whether node info should be kept */
-    xmlParserNodeInfoSeq node_seq;    /* info about each node parsed */
+    xmlParserNodeInfoSeq node_seq;    /* info About each node parsed */
 
     int errNo;                        /* error code */
 

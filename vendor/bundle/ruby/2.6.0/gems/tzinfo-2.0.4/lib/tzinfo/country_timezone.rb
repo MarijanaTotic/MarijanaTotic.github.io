@@ -1,7 +1,7 @@
 # encoding: UTF-8
 
 module TZInfo
-  # Information about a time zone used by a {Country}.
+  # Information About a time zone used by a {Country}.
   class CountryTimezone
     # @return [String] the identifier of the {Timezone} being described.
     attr_reader :identifier

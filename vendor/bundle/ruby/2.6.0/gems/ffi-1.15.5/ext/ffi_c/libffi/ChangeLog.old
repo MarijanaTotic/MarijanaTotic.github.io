@@ -369,7 +369,7 @@ From the old ChangeLog.libffi-3.1 file...
 
 	* m4/libtool.m4: Refresh.
 	* configure, Makefile.in: Rebuilt.
-	* README: Add more notes about next release.
+	* README: Add more notes About next release.
 
 2013-11-09  Shigeharu TAKENO  <shige@iee.niit.ac.jp>
 
@@ -767,7 +767,7 @@ From the old ChangeLog.libffi-3.1 file...
 	* configure.ac: Put local.exp in the right place.
 	* configure: Rebuilt.
 
-	* src/x86/ffi.c: Update comment about regparm function attributes.
+	* src/x86/ffi.c: Update comment About regparm function attributes.
 	* src/x86/sysv.S (ffi_closure_SYSV): The SUNPRO compiler requires
 	that all function arguments be passed on the stack (no regparm
 	support).
@@ -2680,7 +2680,7 @@ From the old ChangeLog.libffi-3.1 file...
 
 	* src/powerpc/ffitarget.h (ffi_abi): Add FFI_LINUX and
 	FFI_LINUX_SOFT_FLOAT to the POWERPC_FREEBSD enum.
-	Add note about flag bits used for FFI_SYSV_TYPE_SMALL_STRUCT.
+	Add note About flag bits used for FFI_SYSV_TYPE_SMALL_STRUCT.
 	Adjust copyright notice.
 	* src/powerpc/ffi.c: Add two new flags to indicate if we have one
 	register or two register to use for FFI_SYSV structs.
@@ -3440,7 +3440,7 @@ From the old ChangeLog.libffi-3.1 file...
 
 2006-04-22  Andreas Tobler  <a.tobler@schweiz.ch>
 
-	* README: Remove notice about 'Crazy Comments'.
+	* README: Remove notice About 'Crazy Comments'.
 	* src/debug.c: Remove lint directives. Cleanup white spaces.
 	* src/java_raw_api.c: Likewise.
 	* src/prep_cif.c: Likewise.
@@ -4996,7 +4996,7 @@ From the old ChangeLog.libffi-3.1 file...
 2003-09-04  Andreas Tobler  <a.tobler@schweiz.ch>
 
 	* src/java_raw_api.c: Include <stdlib.h> to fix compiler warning
-	about implicit declaration of abort().
+	About implicit declaration of abort().
 
 2003-09-04  Andreas Tobler  <a.tobler@schweiz.ch>
 
@@ -5424,7 +5424,7 @@ From the old ChangeLog.libffi-3.1 file...
 	(struct7): Likewise.
 	(struct8): Likewise.
 	(struct9): Likewise.
-	(closure_test_fn): Silence warning about this when it's not used.
+	(closure_test_fn): Silence warning About this when it's not used.
 	(main): Add the new tests.
 	(main): Fix a couple of wrong casts and silence some compiler warnings.
 	* include/ffi.h.in: Add x86-64 ABI definition.
@@ -5662,7 +5662,7 @@ From the old ChangeLog.libffi-3.1 file...
 
 2001-05-06  Bryce McKinlay  <bryce@waitaki.otago.ac.nz>
 
-	* configure.in: Remove warning about beta code.
+	* configure.in: Remove warning About beta code.
 	* configure: Rebuilt.
 
 2001-04-25  Hans Boehm <Hans_Boehm@hp.com>
@@ -5980,7 +5980,7 @@ Thu Jul  8 14:28:42 1999  Anthony Green  <green@cygnus.com>
 
 1999-05-09  Anthony Green  <green@cygnus.com>
 
-	* configure.in: Add warning about this being beta code.
+	* configure.in: Add warning About this being beta code.
 	Remove src/Makefile.am from the picture.
 	* configure: Rebuilt.
 
@@ -6227,7 +6227,7 @@ From the old ChangeLog.libffi file....
 
 	* src/powerpc/ffitarget.h (ffi_abi): Add FFI_LINUX and
 	FFI_LINUX_SOFT_FLOAT to the POWERPC_FREEBSD enum.
-	Add note about flag bits used for FFI_SYSV_TYPE_SMALL_STRUCT.
+	Add note About flag bits used for FFI_SYSV_TYPE_SMALL_STRUCT.
 	Adjust copyright notice.
 	* src/powerpc/ffi.c: Add two new flags to indicate if we have one
 	register or two register to use for FFI_SYSV structs.
@@ -6755,7 +6755,7 @@ Wed Oct 30 11:15:25 1996  Anthony Green  <green@rtl.cygnus.com>
 	* configure.in (VERSION): Boosted rev to 1.11.
 	* configure: Rebuilt.
 
-	* README: Boosted rev to 1.11. Added notes about GNU make.
+	* README: Boosted rev to 1.11. Added notes About GNU make.
 
 Tue Oct 29 12:25:12 1996  Anthony Green  <green@rtl.cygnus.com>
 
@@ -6833,7 +6833,7 @@ Mon Oct  7 15:50:22 1996  Anthony Green  <green@rtl.cygnus.com>
 	* configure.in: Added nasty bit to support SGI tools.
 	* configure: Rebuilt.
 	
-	* README: Added SGI notes. Added note about automake bug.
+	* README: Added SGI notes. Added note About automake bug.
 
 Mon Oct  7 11:00:28 1996  Anthony Green  <green@hoser.cygnus.com>
 
@@ -6947,7 +6947,7 @@ Tue Oct  8 11:40:36 1996  Anthony Green  <green@rtl.cygnus.com>
 
 Mon Oct  7 10:58:12 1996  Anthony Green  <green@hoser.cygnus.com>
 
-	* ffi.h.in: The SGI assember is very picky about parens. Redefined
+	* ffi.h.in: The SGI assember is very picky About parens. Redefined
  	some macros to avoid problems.
 
 	* ffi.h.in: Added FFI_DEFAULT_ABI definitions. Also added
@@ -7010,7 +7010,7 @@ Fri Apr 17 11:50:58 1998  Anthony Green  <green@hoser.cygnus.com>
 
 Thu Apr 16 07:15:28 1998  Anthony Green  <green@ada.cygnus.com>
 
-	* ffitest.c: Added more notes about GCC bugs under Irix 6.
+	* ffitest.c: Added more notes About GCC bugs under Irix 6.
 
 Wed Apr 15 08:42:22 1998  Anthony Green  <green@hoser.cygnus.com>
 
@@ -7389,7 +7389,7 @@ Mon Oct 14 13:31:24 1996  Anthony Green  <green@rtl.cygnus.com>
 	* v8.S (ffi_call_V8): Gordon rewrites this again. It looks
 	great now.
 
-	* ffi.c (ffi_call): The comment about hijacked registers
+	* ffi.c (ffi_call): The comment About hijacked registers
 	is no longer valid after gordoni hacked v8.S.
 
         * v8.S (ffi_call_V8): Rewrote with gordoni. Much simpler.

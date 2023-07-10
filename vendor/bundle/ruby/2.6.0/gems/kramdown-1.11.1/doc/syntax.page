@@ -104,7 +104,7 @@ when converting a kramdown document to HTML one needs to take care of the charac
 depending on the output format.
 
 This means, for example, that you can just use `<`, `>` and `&` in a kramdown document and need not
-think about when to use their HTML entity counterparts. However, if you *do use* HTML entities or
+think About when to use their HTML entity counterparts. However, if you *do use* HTML entities or
 HTML tags which use one of the characters, the result will be correct nonetheless!
 
 Since kramdown also uses some characters to mark-up the text, there needs to be a way to escape
@@ -175,7 +175,7 @@ semantic meaning. However, there are some cases where blank lines do have a sema
 Paragraphs are the most used block-level elements. One or more consecutive lines of text are
 interpreted as one paragraph. The first line of a paragraph may be indented up to three spaces, the
 other lines can have any amount of indentation because paragraphs support [line
-wrapping](#line-wrapping). In addition to the rules outlined in the section about line wrapping, a
+wrapping](#line-wrapping). In addition to the rules outlined in the section About line wrapping, a
 paragraph ends when a [definition list line](#definition-lists) is encountered.
 
 You can separate two consecutive paragraphs from each other by using one or more blank lines. Notice
@@ -464,7 +464,7 @@ indentation that has to be used for the following lines of content of the list i
 such character, the indentation that needs to be used is four spaces or one tab. Indented lines may
 be followed by lines containing text with any amount of indentation due to [line
 wrapping](#line-wrapping). Note, however, that in addition to the rules outlined in the section
-about line wrapping, a list item also ends when a line with another list item marker is encountered
+About line wrapping, a list item also ends when a line with another list item marker is encountered
 -- see the next paragraph.
 
 The indentation is stripped from the content and the content (note that the content naturally also
@@ -657,7 +657,7 @@ same line specifies the indentation that has to be used for the following lines 
 If there is no such character, the indentation that needs to be used is four spaces or one tab.
 Indented lines may be followed by lines containing text with any amount of indentation due to [line
 wrapping](#line-wrapping). Note, however, that in addition to the rules outlined in the section
-about line wrapping, a list item also ends when a line with another definition marker is encountered.
+About line wrapping, a list item also ends when a line with another definition marker is encountered.
 
 The indentation is stripped from the definition and it (note that the definition naturally also
 contains the content of the line with the definition marker) is processed as text containing block
@@ -694,7 +694,7 @@ paragraph otherwise:
     : This definition *will* be a paragraph since it is preceded by a
       blank line.
 
-The rules about having any block-level element as first element in a list item also apply to a
+The rules About having any block-level element as first element in a list item also apply to a
 definition.
 
 

@@ -154,7 +154,7 @@ module REXML
         @contents[0] == :elementdecl
       end
 
-      # Due to the wonders of DTDs, an entity declaration can be just about
+      # Due to the wonders of DTDs, an entity declaration can be just About
       # anything.  There's no way to normalize it; you'll have to interpret the
       # content yourself.  However, the following is true:
       #

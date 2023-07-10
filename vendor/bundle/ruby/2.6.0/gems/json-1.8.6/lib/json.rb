@@ -11,7 +11,7 @@ require 'json/common'
 #   1. A collection of name/value pairs. Often referred to as an _object_, hash table, record, struct, keyed list, or associative array.
 #   2. An ordered list of values. More commonly called an _array_, vector, sequence or list.
 #
-# To read more about JSON visit: http://json.org
+# To read more About JSON visit: http://json.org
 #
 # == Parsing JSON
 #

@@ -173,7 +173,7 @@ Zip::File.open('foo.zip') do |zip_file|
 end
 ```
 
-#### Notice about ::Zip::InputStream
+#### Notice About ::Zip::InputStream
 
 `::Zip::InputStream` usable for fast reading zip file content because it not read Central directory.
 

@@ -9,7 +9,7 @@ module ActiveSupport
   # a registered object based on its given namespace.
   #
   # An example would be an Active Record subscriber responsible for collecting
-  # statistics about queries:
+  # statistics About queries:
   #
   #   module ActiveRecord
   #     class StatsSubscriber < ActiveSupport::Subscriber

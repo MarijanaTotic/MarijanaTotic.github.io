@@ -16,7 +16,7 @@ extern "C" {
 
 #include <fficonfig.h>
 
-/* Do not move this. Some versions of AIX are very picky about where
+/* Do not move this. Some versions of AIX are very picky About where
    this is positioned. */
 #ifdef __GNUC__
 # if HAVE_ALLOCA_H

@@ -6,7 +6,7 @@
 # NIST format leap-seconds.list file, which can be copied from
 # <ftp://ftp.nist.gov/pub/time/leap-seconds.list>
 # or <ftp://ftp.boulder.nist.gov/pub/time/leap-seconds.list>.
-# For more about leap-seconds.list, please see
+# For more About leap-seconds.list, please see
 # The NTP Timescale and Leap Seconds
 # <https://www.eecis.udel.edu/~mills/leap.html>.
 

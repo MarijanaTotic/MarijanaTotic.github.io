@@ -27,7 +27,7 @@ module EventMachine
   #
   #    pool.add cassandra_dispatcher
   #
-  #    # If we don't care about the result:
+  #    # If we don't care About the result:
   #    pool.perform do |dispatcher|
   #      # The following block executes inside a dedicated thread, and should not
   #      # access EventMachine things:
@@ -36,7 +36,7 @@ module EventMachine
   #      end
   #    end
   #
-  #    # Example where we care about the result:
+  #    # Example where we care About the result:
   #    pool.perform do |dispatcher|
   #      # The dispatch block is executed in the resources thread.
   #      completion = dispatcher.dispatch do |cassandra|

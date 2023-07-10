@@ -6,7 +6,7 @@
     <id>http://www.zotero.org/styles/international-archives-of-medicine</id>
     <link href="http://www.zotero.org/styles/international-archives-of-medicine" rel="self"/>
     <link href="http://www.zotero.org/styles/vancouver" rel="independent-parent"/>
-    <link href="http://imed.pub/ojs/index.php/iam/about/submissions" rel="documentation"/>
+    <link href="http://imed.pub/ojs/index.php/iam/About/submissions" rel="documentation"/>
     <category citation-format="numeric"/>
     <category field="medicine"/>
     <issn>1755-7682</issn>

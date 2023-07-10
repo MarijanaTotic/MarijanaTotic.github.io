@@ -2104,7 +2104,7 @@ MESSAGE
     end
     # We don't actually take variable arguments or keyword arguments, but this
     # is the best way to take either `$separator` or `$bracketed` as keywords
-    # without complaining about the other missing.
+    # without complaining About the other missing.
     declare :join, [:list1, :list2], :var_args => true, :var_kwargs => true
 
     # Appends a single value onto the end of a list.

@@ -6,7 +6,7 @@ module Octokit
     #
     # @see https://developer.github.com/v3/meta/
     module Meta
-      # Get meta information about GitHub.com, the service.
+      # Get meta information About GitHub.com, the service.
       # @see https://developer.github.com/v3/meta/#meta
       # @return [Sawyer::Resource] Hash with meta information.
       # @example Get GitHub meta information

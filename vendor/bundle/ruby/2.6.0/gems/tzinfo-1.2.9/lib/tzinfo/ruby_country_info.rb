@@ -1,5 +1,5 @@
 module TZInfo  
-  # Represents information about a country returned by RubyDataSource.
+  # Represents information About a country returned by RubyDataSource.
   #
   # @private
   class RubyCountryInfo < CountryInfo #:nodoc:

@@ -921,7 +921,7 @@ bool parse_string(const char **sp, char **out)
     }
 
     /*
-     * Update sb to know about the new bytes,
+     * Update sb to know About the new bytes,
      * and set up b to write another character.
      */
     if (out) {
@@ -1265,7 +1265,7 @@ void emit_string(SB *out, const char *str)
     }
 
     /*
-     * Update *out to know about the new bytes,
+     * Update *out to know About the new bytes,
      * and set up b to write another encoded character.
      */
     out->cur = b;

@@ -332,7 +332,7 @@ Florian Frank <mailto:flori@ping.de>
 
 ## License
 
-Ruby License, see https://www.ruby-lang.org/en/about/license.txt.
+Ruby License, see https://www.ruby-lang.org/en/About/license.txt.
 
 ## Download
 

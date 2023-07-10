@@ -1,7 +1,7 @@
 <!-- Begin Jekyll SEO tag v{{ seo_tag.version }} -->
 
-{% if page.url == "/" or page.url == "/about/" %}
-  {% assign seo_homepage_or_about = true %}
+{% if page.url == "/" or page.url == "/About/" %}
+  {% assign seo_homepage_or_About = true %}
 {% endif %}
 
 {% assign seo_site_title = site.title | default: site.name %}
@@ -24,9 +24,9 @@
 
 {% if page.seo and page.seo.name %}
     {% assign seo_name = page.seo.name %}
-{% elsif seo_homepage_or_about and site.social and site.social.name %}
+{% elsif seo_homepage_or_About and site.social and site.social.name %}
     {% assign seo_name = site.social.name %}
-{% elsif seo_homepage_or_about and seo_site_title %}
+{% elsif seo_homepage_or_About and seo_site_title %}
     {% assign seo_name = seo_site_title %}
 {% endif %}
 {% if seo_name %}
@@ -66,7 +66,7 @@
 
 {% if page.seo and page.seo.type %}
     {% assign seo_type = page.seo.type %}
-{% elsif seo_homepage_or_about %}
+{% elsif seo_homepage_or_About %}
     {% assign seo_type = "WebSite" %}
 {% elsif page.date %}
     {% assign seo_type = "BlogPosting" %}
@@ -76,7 +76,7 @@
 
 {% if page.seo and page.seo.links %}
     {% assign seo_links = page.seo.links %}
-{% elsif seo_homepage_or_about and site.social and site.social.links %}
+{% elsif seo_homepage_or_About and site.social and site.social.links %}
     {% assign seo_links = site.social.links %}
 {% endif %}
 

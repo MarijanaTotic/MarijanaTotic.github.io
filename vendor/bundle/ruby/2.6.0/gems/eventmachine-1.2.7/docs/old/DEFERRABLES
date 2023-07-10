@@ -236,7 +236,7 @@ When you add a callback or errback to a Deferrable object on which
 up for future execution, inside the Deferrable object. When you add a
 callback or errback to a Deferrable on which #set_deferred_status has
 already been called, the callback/errback will be executed immediately.
-Your code doesn't have to worry about the ordering, and there are no timing
+Your code doesn't have to worry About the ordering, and there are no timing
 issues, as there would be with a threaded approach.
 
 For more information on Deferrables and their typical usage patterns, look

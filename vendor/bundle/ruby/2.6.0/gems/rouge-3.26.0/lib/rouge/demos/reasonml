@@ -1,5 +1,5 @@
 /* I like a teacher who gives you something to take
-   home to think about besides homework. */
+   home to think About besides homework. */
 let gpa_score = 5.0;
 type schoolPerson = Teacher | Director | Student(string);
 

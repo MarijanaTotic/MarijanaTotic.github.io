@@ -87,9 +87,9 @@ module EventMachine
     # generally redefine this method to perform your own processing of the incoming data.
     #
     # Here's a key point which is essential to understanding the event-driven
-    # programming model: <i>EventMachine knows absolutely nothing about the protocol
-    # which your code implements.</i> You must not make any assumptions about
-    # the size of the incoming data packets, or about their alignment on any
+    # programming model: <i>EventMachine knows absolutely nothing About the protocol
+    # which your code implements.</i> You must not make any assumptions About
+    # the size of the incoming data packets, or About their alignment on any
     # particular intra-message or PDU boundaries (such as line breaks).
     # receive_data can and will send you arbitrary chunks of data, with the
     # only guarantee being that the data is presented to your code in the order
@@ -561,10 +561,10 @@ module EventMachine
     # will respond in a platform-specific way if you send an overlarge
     # packet: some will send a truncated packet, some will complain, and
     # some will silently drop your request).
-    # On LANs, it's usually OK to send datagrams up to about 4000 bytes in length,
+    # On LANs, it's usually OK to send datagrams up to About 4000 bytes in length,
     # but to be really safe, send messages smaller than the Ethernet-packet
-    # size (typically about 1400 bytes). Some very restrictive WANs
-    # will either drop or truncate packets larger than about 500 bytes.
+    # size (typically About 1400 bytes). Some very restrictive WANs
+    # will either drop or truncate packets larger than About 500 bytes.
     #
     # @param [String] data              Data to send asynchronously
     # @param [String] recipient_address IP address of the recipient

@@ -113,7 +113,7 @@ module Nokogiri
       # Nokogiri::XML::Node methods like #add_child, #add_next_sibling, #replace, etc. which will
       # both create an element (or subtree) and place it in the document tree.
       #
-      # Another alternative, if you are concerned about performance, is
+      # Another alternative, if you are concerned About performance, is
       # Nokogiri::XML::Document#create_element which accepts additional arguments for contents or
       # attributes but (like this method) avoids parsing markup.
       #

@@ -12,7 +12,7 @@ module Concurrent
     # For example, if the allocated index is 1, that means slot #1 in EVERY
     #   thread's thread-local array will be used for the value of that TLV
     #
-    # The good thing about using a per-THREAD structure to hold values, rather
+    # The good thing About using a per-THREAD structure to hold values, rather
     #   than a per-TLV structure, is that no synchronization is needed when
     #    reading and writing those values (since the structure is only ever
     #    accessed by a single thread)

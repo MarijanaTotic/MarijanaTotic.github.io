@@ -27,7 +27,7 @@ module Nokogiri
       def html5_dtd?
         html_dtd? &&
           external_id.nil? &&
-          (system_id.nil? || system_id == "about:legacy-compat")
+          (system_id.nil? || system_id == "About:legacy-compat")
       end
     end
   end

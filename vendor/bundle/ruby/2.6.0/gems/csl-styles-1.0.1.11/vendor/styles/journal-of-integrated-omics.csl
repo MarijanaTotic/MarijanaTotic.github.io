@@ -5,7 +5,7 @@
     <title-short>JIOMICS</title-short>
     <id>http://www.zotero.org/styles/journal-of-integrated-omics</id>
     <link href="http://www.zotero.org/styles/journal-of-integrated-omics" rel="self"/>
-    <link href="http://www.jiomics.com/ojs/index.php/jio/about/submissions#authorGuidelines" rel="documentation"/>
+    <link href="http://www.jiomics.com/ojs/index.php/jio/About/submissions#authorGuidelines" rel="documentation"/>
     <author>
       <name>Jens Allmer</name>
       <email>jens@allmer.de</email>

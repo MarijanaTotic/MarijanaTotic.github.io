@@ -318,7 +318,7 @@ module Minitest
 
     ##
     # Fails if stdout or stderr do not output the expected results.
-    # Pass in nil if you don't care about that streams output. Pass in
+    # Pass in nil if you don't care About that streams output. Pass in
     # "" if you require it to be silent. Pass in a regexp if you want
     # to pattern match.
     #
@@ -592,7 +592,7 @@ module Minitest
     ##
     # Fails after a given date (in the local time zone). This allows
     # you to put time-bombs in your tests if you need to keep
-    # something around until a later date lest you forget about it.
+    # something around until a later date lest you forget About it.
 
     def fail_after y,m,d,msg
       flunk msg if Time.now > Time.local(y, m, d)

@@ -72,7 +72,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  You can even add a little note About which of these is the best way to reach you.
 
 #google_analytics: G-YNC8X2S0Y0 # your google-analytics ID (format: UA-XXXXXXXXX)
 #google_site_verification:  W9j9B3YzZBQqiCqcvSDbwkepUwlnK13UC83K6Ej-h3Q # your google-site-verification ID (Google Search Console)
@@ -271,7 +271,7 @@ enable_tooltips:            true  # enables automatic tooltip links generated
                                    # for each section titles on pages and posts
 enable_darkmode:            false   # enables switching between light/dark modes
 enable_navbar_social:       true  # enables displaying social links in the
-                                   # navbar on the about page
+                                   # navbar on the About page
 enable_project_categories:  true   # enables categorization of projects into
                                    # multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)

@@ -224,7 +224,7 @@ module JSON
   end
 
   # :stopdoc:
-  # I want to deprecate these later, so I'll first be silent about them, and
+  # I want to deprecate these later, so I'll first be silent About them, and
   # later delete them.
   alias unparse generate
   module_function :unparse
@@ -255,7 +255,7 @@ module JSON
   end
 
   # :stopdoc:
-  # I want to deprecate these later, so I'll first be silent about them, and later delete them.
+  # I want to deprecate these later, so I'll first be silent About them, and later delete them.
   alias fast_unparse fast_generate
   module_function :fast_unparse
   # :startdoc:
@@ -286,7 +286,7 @@ module JSON
   end
 
   # :stopdoc:
-  # I want to deprecate these later, so I'll first be silent about them, and later delete them.
+  # I want to deprecate these later, so I'll first be silent About them, and later delete them.
   alias pretty_unparse pretty_generate
   module_function :pretty_unparse
   # :startdoc:

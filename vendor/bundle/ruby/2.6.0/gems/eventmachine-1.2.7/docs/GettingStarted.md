@@ -9,7 +9,7 @@
 
 This guide is a quick tutorial that helps you to get started with EventMachine for writing event-driven
 servers, clients and using it as a lightweight concurrency library.
-It should take about 20 minutes to read and study the provided code examples. This guide covers
+It should take About 20 minutes to read and study the provided code examples. This guide covers
 
  * Installing EventMachine via [Rubygems](http://rubygems.org) and [Bundler](http://gembundler.com).
  * Building an Echo server, the "Hello, world"-like code example of network servers.
@@ -160,7 +160,7 @@ client application that will serve as a proxy between telnet and the chat server
 we will instead begin with a very simple version that only keeps track of connected clients and then add features
 as we go.
 
-To set some expectations about our example:
+To set some expectations About our example:
 
  * It will keep track of connected clients
  * It will support a couple of commands, à la IRC
@@ -435,23 +435,23 @@ Just in case, here is the final version of the chat server code we have built:
 
 ### Step seven: future directions and some closing thoughts ###
 
-The chat server is just about 150 lines of Ruby including empty lines and comments, yet it has a few features most of chat server
+The chat server is just About 150 lines of Ruby including empty lines and comments, yet it has a few features most of chat server
 examples never add. We did not, however, implement many other features that popular IRC clients like [Colloquy](http://colloquy.info) have:
 
  * Chat moderation
  * Multiple rooms
  * Connection timeout detection
 
-How would one go about implementing them? We thought it is worth discussing what else EventMachine has to offer and what ecosystem projects
+How would one go About implementing them? We thought it is worth discussing what else EventMachine has to offer and what ecosystem projects
 one can use to build a really feature-rich Web-based IRC chat client.
 
-With multiple rooms it's more or less straightforward, just add one more hash and a bunch of commands and use the information about which rooms participant
+With multiple rooms it's more or less straightforward, just add one more hash and a bunch of commands and use the information About which rooms participant
 is in when you are delivering messages. There is nothing in EventMachine itself that can make the job much easier for developer.
 
 To implement chat moderation feature you may want to do a few things:
 
  * Work with client IP addresses. Maybe we want to consider everyone who connects from certain IPs a moderator.
- * Access persistent data about usernames of moderators and their credentials.
+ * Access persistent data About usernames of moderators and their credentials.
 
 Does EventMachine have anything to offer here? It does. To obtain peer IP address, take a look at {EventMachine::Connection#get_peername}. The name of this method is
 a little bit misleading and originates from low-level socket programming APIs.
@@ -504,7 +504,7 @@ TBD
 
 ## Wrapping up ##
 
-This tutorial ends here. Congratulations! You have learned quite a bit about EventMachine.
+This tutorial ends here. Congratulations! You have learned quite a bit About EventMachine.
 
 
 ## What to read next ##
@@ -515,7 +515,7 @@ topics. TBD
 
 ## Tell us what you think! ##
 
-Please take a moment and tell us what you think about this guide on the [EventMachine mailing list](http://bit.ly/jW3cR3)
+Please take a moment and tell us what you think About this guide on the [EventMachine mailing list](http://bit.ly/jW3cR3)
 or in the #eventmachine channel on irc.freenode.net: what was unclear? What wasn't covered?
 Maybe you don't like the guide style or the grammar and spelling are incorrect? Reader feedback is
 key to making documentation better.

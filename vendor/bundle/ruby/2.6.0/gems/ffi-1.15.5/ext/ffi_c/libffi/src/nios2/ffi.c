@@ -210,7 +210,7 @@ ffi_closure_helper (unsigned char *args,
   void *retptr;
   unsigned int i;
 
-  /* First figure out what to do about the return type.  If this is the
+  /* First figure out what to do About the return type.  If this is the
      big-structure-return case, the first arg is the hidden return buffer
      allocated by the caller.  */
   if (cif->rtype->type == FFI_TYPE_STRUCT

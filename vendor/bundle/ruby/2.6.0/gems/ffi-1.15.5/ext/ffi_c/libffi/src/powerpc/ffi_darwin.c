@@ -433,7 +433,7 @@ darwin64_pass_struct_floats (ffi_type *s, char *src,
   double *fpr_base = *fprs;
   unsigned struct_offset = 0;
 
-  /* We don't assume anything about the alignment of the source.  */
+  /* We don't assume anything About the alignment of the source.  */
   for (i = 0; s->elements[i] != NULL; i++)
     {
       char *item_base;
@@ -524,7 +524,7 @@ darwin64_struct_floats_to_mem (ffi_type *s, char *dest, double *fprs, unsigned *
   int i;
   unsigned struct_offset = 0;
 
-  /* We don't assume anything about the alignment of the source.  */
+  /* We don't assume anything About the alignment of the source.  */
   for (i = 0; s->elements[i] != NULL; i++)
     {
       char *item_base;
@@ -845,7 +845,7 @@ ffi_prep_cif_machdep (ffi_cif *cif)
 	    intarg_count = FFI_ALIGN(intarg_count, align_words);
 	  /* Base size of the struct.  */
 	  intarg_count += (size_al + 7) / 8;
-	  /* If 16 bytes then don't worry about floats.  */
+	  /* If 16 bytes then don't worry About floats.  */
 	  if (size_al != 16)
 	    /* Scan through for floats to be placed in regs.  */
 	    darwin64_scan_struct_for_floats (*ptr, &fparg_count) ;

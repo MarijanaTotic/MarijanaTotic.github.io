@@ -29,7 +29,7 @@ module Jekyll
       #         between the site source and `paginate_path`.
       #
       # config - the site configuration hash
-      # page   - the Jekyll::Page about which we're inquiring
+      # page   - the Jekyll::Page About which we're inquiring
       #
       # Returns true if the
       def self.pagination_candidate?(config, page)

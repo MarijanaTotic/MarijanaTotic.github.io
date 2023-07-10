@@ -472,7 +472,7 @@ module TZInfo
       }
     end
     
-    # Returns information about offsets used by the Timezone up to a given
+    # Returns information About offsets used by the Timezone up to a given
     # date and time, specified using UTC (utc_to). The information is returned
     # as an Array of TimezoneOffset instances.
     #

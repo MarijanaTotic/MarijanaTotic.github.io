@@ -370,7 +370,7 @@ Fixes:
 Misc:
 
 * Fix Ruby 2.7 warnings (#1009)
-* Add `Faraday::Deprecate` to warn about upcoming v1.0 changes. (#1054, #1059,
+* Add `Faraday::Deprecate` to warn About upcoming v1.0 changes. (#1054, #1059,
     #1076, #1077)
 * Add release notes up to current in CHANGELOG.md (#1066)
 * Port minimal rspec suite from main branch to run backported tests. (#1058)
@@ -430,7 +430,7 @@ Features:
 * Allow overriding env proxy #754 (@iMacTia)
 * Remove legacy Typhoeus adapter #715 (@olleolleolle)
 * External Typhoeus Adapter Compatibility #748 (@iMacTia)
-* Warn about missing adapter when making a request #743 (@antstorm)
+* Warn About missing adapter when making a request #743 (@antstorm)
 * Faraday::Adapter::Test stubs now support entire urls (with host) #741 (@erik-escobedo)
 
 Fixes:

@@ -31,7 +31,7 @@ module Rouge
       end
 
       def self.handler_params
-        @handler_params ||= ['about', 'above', 'against', 'apart from', 'around',
+        @handler_params ||= ['About', 'above', 'against', 'apart from', 'around',
                              'aside from', 'at', 'below', 'beneath', 'beside',
                              'between', 'for', 'given', 'instead of', 'on', 'onto',
                              'out of', 'over', 'since']

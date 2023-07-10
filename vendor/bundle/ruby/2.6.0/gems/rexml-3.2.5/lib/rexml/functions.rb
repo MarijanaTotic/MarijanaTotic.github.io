@@ -287,7 +287,7 @@ module REXML
       # in the output.  This happens if the from
       # string is longer than the to string
       #
-      # there's nothing about - or ^ being special in
+      # there's nothing About - or ^ being special in
       # http://www.w3.org/TR/xpath#function-translate
       # so we don't build ranges or negated classes
 

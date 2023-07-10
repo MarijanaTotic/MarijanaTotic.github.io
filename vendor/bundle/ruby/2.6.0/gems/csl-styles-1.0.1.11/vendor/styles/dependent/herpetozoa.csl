@@ -6,7 +6,7 @@
     <id>http://www.zotero.org/styles/herpetozoa</id>
     <link href="http://www.zotero.org/styles/herpetozoa" rel="self"/>
     <link href="http://www.zotero.org/styles/pensoft-journals" rel="independent-parent"/>
-    <link href="https://herpetozoa.pensoft.net/about#CitationsandReferences" rel="documentation"/>
+    <link href="https://herpetozoa.pensoft.net/About#CitationsandReferences" rel="documentation"/>
     <category citation-format="author-date"/>
     <category field="biology"/>
     <issn>1013-4425</issn>

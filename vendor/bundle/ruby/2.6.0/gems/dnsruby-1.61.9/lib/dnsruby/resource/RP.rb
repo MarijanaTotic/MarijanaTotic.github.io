@@ -24,7 +24,7 @@ module Dnsruby
       # Returns a domain name that specifies the mailbox for the responsible person.
       attr_reader :mailbox
       # A domain name that specifies a TXT record containing further
-      # information about the responsible person.
+      # information About the responsible person.
       attr_reader :txtdomain
 
       def txtdomain=(s)

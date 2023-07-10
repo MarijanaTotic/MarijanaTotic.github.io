@@ -192,7 +192,7 @@ L2:
 	bt	31,L(maybe_return_128) ; FLAG_RETURNS_128BITS, special case 
 
 	/* OK, we have to map the return back to a mem struct.
-	   We are about to trample the parents param area, so recover the
+	   We are About to trample the parents param area, so recover the
 	   return type.  r29 is free, since the call is done.  */
 	lg	r29,(LINKAGE_SIZE + 6 * GPR_BYTES)(r28)
 

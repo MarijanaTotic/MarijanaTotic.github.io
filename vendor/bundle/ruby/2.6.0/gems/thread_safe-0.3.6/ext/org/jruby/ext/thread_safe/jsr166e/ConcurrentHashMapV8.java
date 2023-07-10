@@ -297,7 +297,7 @@ public class ConcurrentHashMapV8<K, V>
      * The primary design goal of this hash table is to maintain
      * concurrent readability (typically method get(), but also
      * iterators and related methods) while minimizing update
-     * contention. Secondary goals are to keep space consumption about
+     * contention. Secondary goals are to keep space consumption About
      * the same or better than java.util.HashMap, and to support high
      * initial insertion rates on an empty table by many threads.
      *
@@ -370,7 +370,7 @@ public class ConcurrentHashMapV8<K, V>
      * random hash codes, this is not a common problem.  Ideally, the
      * frequency of nodes in bins follows a Poisson distribution
      * (http://en.wikipedia.org/wiki/Poisson_distribution) with a
-     * parameter of about 0.5 on average, given the resizing threshold
+     * parameter of About 0.5 on average, given the resizing threshold
      * of 0.75, although with a large variance because of resizing
      * granularity. Ignoring variance, the expected occurrences of
      * list size k are (exp(-0.5) * pow(0.5, k) / factorial(k)). The
@@ -422,7 +422,7 @@ public class ConcurrentHashMapV8<K, V>
      * stay at same index, or move with a power of two offset. We
      * eliminate unnecessary node creation by catching cases where old
      * nodes can be reused because their next fields won't change.  On
-     * average, only about one-sixth of them need cloning when a table
+     * average, only About one-sixth of them need cloning when a table
      * doubles. The nodes they replace will be garbage collectable as
      * soon as they are no longer referenced by any reader thread that
      * may be in the midst of concurrently traversing table.  Upon
@@ -472,7 +472,7 @@ public class ConcurrentHashMapV8<K, V>
      * nodes (checked before adding in the xIfAbsent methods, after
      * adding in others). Under uniform hash distributions, the
      * probability of this occurring at threshold is around 13%,
-     * meaning that only about 1 in 8 puts check threshold (and after
+     * meaning that only About 1 in 8 puts check threshold (and after
      * resizing, many fewer do so). But this approximation has high
      * variance for small table sizes, so we check on any collision
      * for sizes <= 64. The bulk putAll operation further reduces
@@ -880,7 +880,7 @@ public class ConcurrentHashMapV8<K, V>
             try {
                 result = l.callMethod(context, "<=>", r);
             } catch (RaiseException e) {
-                // handle objects "lying" about responding to <=>, ie: an Array containing non-comparable keys
+                // handle objects "lying" About responding to <=>, ie: an Array containing non-comparable keys
                 if (context.runtime.getNoMethodError().isInstance(e.getException())) {
                     return 0;
                 }
@@ -2423,7 +2423,7 @@ public class ConcurrentHashMapV8<K, V>
      * This class extends ForkJoinTask to streamline parallel
      * iteration in bulk operations (see BulkTask). This adds only an
      * int of space overhead, which is close enough to negligible in
-     * cases where it is not needed to not worry about it.  Because
+     * cases where it is not needed to not worry About it.  Because
      * ForkJoinTask is Serializable, but iterators need not be, we
      * need to add warning suppressions.
      */

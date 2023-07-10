@@ -234,7 +234,7 @@ module REXML
   end
 
   # We don't really handle any of these since we're not a validating
-  # parser, so we can be pretty dumb about them.  All we need to be able
+  # parser, so we can be pretty dumb About them.  All we need to be able
   # to do is spew them back out on a write()
 
   # This is an abstract class.  You never use this directly; it serves as a

@@ -12,7 +12,7 @@ module Nokogiri
       # Here is an example of using this parser:
       #
       #   # Create a subclass of Nokogiri::XML::SAX::Document and implement
-      #   # the events we care about:
+      #   # the events we care About:
       #   class MyDoc < Nokogiri::XML::SAX::Document
       #     def start_element name, attrs = []
       #       puts "starting: #{name}"
@@ -29,7 +29,7 @@ module Nokogiri
       #   # Send some XML to the parser
       #   parser.parse(File.open(ARGV[0]))
       #
-      # For more information about SAX parsers, see Nokogiri::XML::SAX.  Also
+      # For more information About SAX parsers, see Nokogiri::XML::SAX.  Also
       # see Nokogiri::XML::SAX::Document for the available events.
       class Parser
         class Attribute < Struct.new(:localname, :prefix, :uri, :value)

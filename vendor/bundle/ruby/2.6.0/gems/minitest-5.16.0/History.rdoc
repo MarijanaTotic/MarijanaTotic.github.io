@@ -307,7 +307,7 @@
 
 * 1 minor enhancement:
 
-  * Added extra note about mocks and threads to readme. (zamith)
+  * Added extra note About mocks and threads to readme. (zamith)
 
 * 1 bug fix:
 
@@ -373,7 +373,7 @@
 
 * 4 minor enhancements:
 
-  * Added a note about bundle exec pitfall in ruby 2.2+. (searls)
+  * Added a note About bundle exec pitfall in ruby 2.2+. (searls)
   * Lazily start the parallel executor. (tenderlove)
   * Make mocks more debugger-friendly (edward)
   * Print out the current test run on interrupt. (riffraff)
@@ -515,8 +515,8 @@
 
 * 2 minor enhancements:
 
-  * Added clarification about the use of thread local variables in expectations. (jemc)
-  * Added extra message about skipped tests, if any. Disable globally with $MT_NO_SKIP_MSG.
+  * Added clarification About the use of thread local variables in expectations. (jemc)
+  * Added extra message About skipped tests, if any. Disable globally with $MT_NO_SKIP_MSG.
 
 * 2 bug fixes:
 
@@ -528,7 +528,7 @@
 * 3 minor enhancements:
 
   * Allow stub to pass args to blocks. (swindsor)
-  * Improved warning message about minitest/autorun to address 1.9's minitest/autorun.
+  * Improved warning message About minitest/autorun to address 1.9's minitest/autorun.
   * Made minitest/test require minitest as needed. For lib writers. (erikh)
 
 * 1 bug fix:
@@ -772,7 +772,7 @@ back.
 
 * 1 bug fix:
 
-  * Updated information about stubbing. (daviddavis)
+  * Updated information About stubbing. (daviddavis)
 
 === 4.3.2 / 2012-11-27 // mri 2.0.0
 

@@ -1,6 +1,6 @@
 # Listen
 
-The `listen` gem listens to file modifications and notifies you about the changes.
+The `listen` gem listens to file modifications and notifies you About the changes.
 
 [![Development Status](https://github.com/guard/listen/workflows/Development/badge.svg)](https://github.com/guard/listen/actions?workflow=Development)
 [![Gem Version](https://badge.fury.io/rb/listen.svg)](http://badge.fury.io/rb/listen)
@@ -375,7 +375,7 @@ If `listen` seems slow or unresponsive, make sure you're not using the Polling a
 Also, if the directories you're watching contain many files, make sure you're:
 
 * not using Polling (ideally)
-* using `:ignore` and `:only` options to avoid tracking directories you don't care about (important with Polling and on MacOS)
+* using `:ignore` and `:only` options to avoid tracking directories you don't care About (important with Polling and on MacOS)
 * running `listen` with the `:latency` and `:wait_for_delay` options not too small or too big (depends on needs)
 * not watching directories with log files, database files or other frequently changing files
 * not using a version of `listen` prior to 2.7.7
@@ -392,7 +392,7 @@ When in doubt, `LISTEN_GEM_DEBUGGING=debug` can help discover the actual events 
 - Watch only directories you're interested in.
 - Set your editor to save quickly (e.g. without backup files, without atomic-save)
 - Tweak the `:latency` and `:wait_for_delay` options until you get good results (see [options](#options)).
-- Add `:ignore` rules to silence all events you don't care about (reduces a lot of noise, especially if you use it on directories)
+- Add `:ignore` rules to silence all events you don't care About (reduces a lot of noise, especially if you use it on directories)
 
 ## Development
 

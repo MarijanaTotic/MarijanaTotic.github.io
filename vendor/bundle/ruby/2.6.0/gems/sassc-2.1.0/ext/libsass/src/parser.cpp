@@ -13,7 +13,7 @@
 #include "error_handling.hpp"
 #include "util_string.hpp"
 
-// Notes about delayed: some ast nodes can have delayed evaluation so
+// Notes About delayed: some ast nodes can have delayed evaluation so
 // they can preserve their original semantics if needed. This is most
 // prominently exhibited by the division operation, since it is not
 // only a valid operation, but also a valid css statement (i.e. for

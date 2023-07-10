@@ -49,7 +49,7 @@ module Jekyll
       end
 
       def add_title_and_description_fallbacks!
-        if should_warn_about_site_name?
+        if should_warn_About_site_name?
           msg =  "site.name is set in _config.yml, but many plugins and themes expect "
           msg << "site.title to be used instead. To avoid potential inconsistency, "
           msg << "Jekyll GitHub Metadata will not set site.title to the repository's name."
@@ -70,7 +70,7 @@ module Jekyll
         Jekyll.env == "production" || Pages.page_build?
       end
 
-      def should_warn_about_site_name?
+      def should_warn_About_site_name?
         site.config["name"] && !site.config["title"]
       end
     end

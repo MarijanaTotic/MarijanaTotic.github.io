@@ -814,7 +814,7 @@ Version 0.0.2 (tzdata v2005m) - 13-Sep-2005
 * Added new class methods to Timezone to return sets of zones and identifiers.
 
 Thanks to Scott Barron of Lunchbox Software for the suggestions in his
-article about using TZInfo with Rails 
+article About using TZInfo with Rails 
 (https://web.archive.org/web/20060425190845/http://lunchroom.lunchboxsoftware.com/pages/tzinfo_rails)
 
 

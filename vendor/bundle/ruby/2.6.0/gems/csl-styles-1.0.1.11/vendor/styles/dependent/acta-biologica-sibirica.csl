@@ -6,7 +6,7 @@
     <id>http://www.zotero.org/styles/acta-biologica-sibirica</id>
     <link href="http://www.zotero.org/styles/acta-biologica-sibirica" rel="self"/>
     <link href="http://www.zotero.org/styles/pensoft-journals" rel="independent-parent"/>
-    <link href="https://abs.pensoft.net/about#CitationsandReferences" rel="documentation"/>
+    <link href="https://abs.pensoft.net/About#CitationsandReferences" rel="documentation"/>
     <category citation-format="author-date"/>
     <category field="biology"/>
     <eissn>2412-1908</eissn>

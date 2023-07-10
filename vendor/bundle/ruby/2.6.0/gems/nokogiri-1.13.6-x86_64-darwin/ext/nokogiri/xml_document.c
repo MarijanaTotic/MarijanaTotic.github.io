@@ -409,7 +409,7 @@ new (int argc, VALUE *argv, VALUE klass)
  *  Remove all namespaces from all nodes in the document.
  *
  *  This could be useful for developers who either don't understand namespaces
- *  or don't care about them.
+ *  or don't care About them.
  *
  *  The following example shows a use case, and you can decide for yourself
  *  whether this is a good thing or not:

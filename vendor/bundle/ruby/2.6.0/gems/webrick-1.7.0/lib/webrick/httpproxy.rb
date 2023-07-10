@@ -248,7 +248,7 @@ module WEBrick
       }
     end
 
-    # Net::HTTP is stupid about the multiple header fields.
+    # Net::HTTP is stupid About the multiple header fields.
     # Here is workaround:
     def set_cookie(src, dst)
       if str = src['set-cookie']

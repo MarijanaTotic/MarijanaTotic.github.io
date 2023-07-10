@@ -17,7 +17,7 @@ namespace Sass {
   /*
    There are a lot of stumbling blocks when trying to port the ruby extend code to C++. The biggest is the choice of
    data type. The ruby code will pretty seamlessly switch types between an Array<SimpleSequence or Op> (libsass'
-   equivalent is the Complex_Selector) to a Sequence, which contains more metadata about the sequence than just the
+   equivalent is the Complex_Selector) to a Sequence, which contains more metadata About the sequence than just the
    selector info. They also have the ability to have arbitrary nestings of arrays like [1, [2]], which is hard to
    implement using Array equivalents in C++ (like the deque or vector). They also have the ability to include nil
    in the arrays, like [1, nil, 3], which has potential semantic differences than an empty array [1, [], 3]. To be

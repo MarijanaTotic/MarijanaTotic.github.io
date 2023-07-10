@@ -91,7 +91,7 @@ The most important option is the `:safe` option (default: `true`), which control
 
 - `:deserialize_symbols` (default: `false`): Controls whether or not YAML will deserialize symbols. It is probably best to only enable this option where necessary, e.g. to make trusted libraries work. Symbols receive special treatment in Ruby and are not garbage collected, which means deserializing them indiscriminately may render your site vulnerable to a DOS attack.
 
-- `:whitelisted_tags`: Accepts an array of YAML tags that designate trusted types, e.g., ones that can be deserialized without worrying about any resulting security vulnerabilities. When any of the given tags are encountered in a YAML document, the associated data will be parsed by the underlying YAML engine (Syck or Psych) for the version of Ruby you are using. See the "Whitelisting Trusted Types" section below for more information.
+- `:whitelisted_tags`: Accepts an array of YAML tags that designate trusted types, e.g., ones that can be deserialized without worrying About any resulting security vulnerabilities. When any of the given tags are encountered in a YAML document, the associated data will be parsed by the underlying YAML engine (Syck or Psych) for the version of Ruby you are using. See the "Whitelisting Trusted Types" section below for more information.
 
 - `:custom_initializers`: Similar to the `:whitelisted_tags` option, but allows you to provide your own initializers for specified tags rather than using Syck or Psyck. Accepts a hash with string tags for keys and lambdas for values.
 
@@ -164,7 +164,7 @@ EOYAML
 Known Issues
 ------------
 
-If you add SafeYAML to your project and start seeing any errors about missing keys, or you notice mysterious strings that look like `":foo"` (i.e., start with a colon), it's likely you're seeing errors from symbols being saved in YAML format. If you are able to modify the offending code, you might want to consider changing your YAML content to use plain vanilla strings instead of symbols. If not, you may need to set the `:deserialize_symbols` option to `true`, either in calls to `YAML.load` or---as a last resort---globally, with `SafeYAML::OPTIONS[:deserialize_symbols]`.
+If you add SafeYAML to your project and start seeing any errors About missing keys, or you notice mysterious strings that look like `":foo"` (i.e., start with a colon), it's likely you're seeing errors from symbols being saved in YAML format. If you are able to modify the offending code, you might want to consider changing your YAML content to use plain vanilla strings instead of symbols. If not, you may need to set the `:deserialize_symbols` option to `true`, either in calls to `YAML.load` or---as a last resort---globally, with `SafeYAML::OPTIONS[:deserialize_symbols]`.
 
 Also be aware that some Ruby libraries, particularly those requiring inter-process communication, leverage YAML's object deserialization functionality and therefore may break or otherwise be impacted by SafeYAML. The following list includes known instances of SafeYAML's interaction with other Ruby gems:
 

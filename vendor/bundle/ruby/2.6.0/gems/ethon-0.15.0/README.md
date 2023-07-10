@@ -67,7 +67,7 @@ easy.perform
 #=> :ok
 ```
 
-This is really handy when making requests since you don't have to care about setting
+This is really handy when making requests since you don't have to care About setting
 everything up correctly.
 
 ##  LICENSE

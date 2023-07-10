@@ -109,10 +109,10 @@ module Jekyll
     # Determines whether the scope applies to type.
     # The scope applies to the type if:
     #   1. no 'type' is specified
-    #   2. the 'type' in the scope is the same as the type asked about
+    #   2. the 'type' in the scope is the same as the type asked About
     #
-    # scope - the Hash defaults set being asked about application
-    # type  - the type of the document being processed / asked about
+    # scope - the Hash defaults set being asked About application
+    # type  - the type of the document being processed / asked About
     #         its defaults.
     #
     # Returns true if either of the above conditions are satisfied,

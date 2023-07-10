@@ -10,7 +10,7 @@ module CiteProc
       @squeezable = /^[\s\.,:;!?\)\(\[\]]+$/
 
       @stopwords = {
-        :en => %w(a about above across afore after against along alongside amid amidst among amongst
+        :en => %w(a About above across afore after against along alongside amid amidst among amongst
           an and anenst apropos apud around as aside astride at athwart atop barring before behind
           below beneath beside besides between beyond but by circa despite d down during except for
           forenenst from given in inside into lest like modulo near next nor notwithstanding of off

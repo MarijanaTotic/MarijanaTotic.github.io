@@ -15,7 +15,7 @@
 #   For the GNU compiler it will be -Wall (and -ansi -pedantic) The result
 #   is added to the shellvar being CFLAGS, CXXFLAGS, or FCFLAGS by default.
 #
-#   Currently this macro knows about the GCC, Solaris, Digital Unix, AIX,
+#   Currently this macro knows About the GCC, Solaris, Digital Unix, AIX,
 #   HP-UX, IRIX, NEC SX-5 (Super-UX 10), Cray J90 (Unicos 10.0.0.8), and
 #   Intel compilers.  For a given compiler, the Fortran flags are much more
 #   experimental than their C equivalents.
@@ -96,7 +96,7 @@ dnl  implementation tactics:
 dnl   the for-argument contains a list of options. The first part of
 dnl   these does only exist to detect the compiler - usually it is
 dnl   a global option to enable -ansi or -extrawarnings. All other
-dnl   compilers will fail about it. That was needed since a lot of
+dnl   compilers will fail About it. That was needed since a lot of
 dnl   compilers will give false positives for some option-syntax
 dnl   like -Woption or -Xoption as they think of it is a pass-through
 dnl   to later compile stages or something. The "%" is used as a

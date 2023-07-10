@@ -41,7 +41,7 @@
 typedef void *PTR64 __attribute__((mode(DI)));
 
 /* Memory image of fp register contents.  This is the implementation
-   specific format used by ldf.fill/stf.spill.  All we care about is
+   specific format used by ldf.fill/stf.spill.  All we care About is
    that it wants a 16 byte aligned slot.  */
 typedef struct
 {

@@ -357,7 +357,7 @@ LIBFFI_ENABLE(symvers,yes,[=STYLE],
   [permit yes|no|gnu*|sun])
 
 # If we never went through the LIBFFI_CHECK_LINKER_FEATURES macro, then we
-# don't know enough about $LD to do tricks...
+# don't know enough About $LD to do tricks...
 AC_REQUIRE([LIBFFI_CHECK_LINKER_FEATURES])
 
 # Turn a 'yes' into a suitable default.

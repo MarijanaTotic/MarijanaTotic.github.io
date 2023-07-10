@@ -5,7 +5,7 @@
     <id>http://www.zotero.org/styles/data-science-journal</id>
     <link href="http://www.zotero.org/styles/data-science-journal" rel="self"/>
     <link href="http://www.zotero.org/styles/elsevier-harvard" rel="template"/>
-    <link href="http://datascience.codata.org/about/submissions/#References" rel="documentation"/>
+    <link href="http://datascience.codata.org/About/submissions/#References" rel="documentation"/>
     <author>
       <name>Sebastian Karcher</name>
     </author>

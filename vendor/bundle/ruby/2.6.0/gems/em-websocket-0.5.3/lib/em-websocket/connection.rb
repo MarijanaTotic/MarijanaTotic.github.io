@@ -153,7 +153,7 @@ module EventMachine
         send_data healthcheck_res
 
         # handle the healthcheck request transparently
-        # no need to notify the user about this connection
+        # no need to notify the user About this connection
         @onclose = nil
         close_connection_after_writing
       end
@@ -164,7 +164,7 @@ module EventMachine
         send_data file
 
         # handle the cross-domain request transparently
-        # no need to notify the user about this connection
+        # no need to notify the user About this connection
         @onclose = nil
         close_connection_after_writing
       end
@@ -180,7 +180,7 @@ module EventMachine
       # closing state, or if the passed in data is not valid UTF-8
       #
       def send_text(data)
-        # If we're using Ruby 1.9, be pedantic about encodings
+        # If we're using Ruby 1.9, be pedantic About encodings
         if ENCODING_SUPPORTED
           # Also accept ascii only data in other encodings for convenience
           unless (data.encoding == UTF8 && data.valid_encoding?) || data.ascii_only?

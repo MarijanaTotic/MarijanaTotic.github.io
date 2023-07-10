@@ -9,7 +9,7 @@ module Jekyll
       FORMAT_STRING_METHODS = [
         :markdownify, :strip_html, :normalize_whitespace, :escape_once,
       ].freeze
-      HOMEPAGE_OR_ABOUT_REGEX = %r!^/(about/)?(index.html?)?$!.freeze
+      HOMEPAGE_OR_About_REGEX = %r!^/(About/)?(index.html?)?$!.freeze
 
       EMPTY_READ_ONLY_HASH = {}.freeze
       private_constant :EMPTY_READ_ONLY_HASH
@@ -78,7 +78,7 @@ module Jekyll
 
         @name = if seo_name
                   seo_name
-                elsif !homepage_or_about?
+                elsif !homepage_or_About?
                   nil
                 elsif site_social["name"]
                   format_string site_social["name"]
@@ -125,7 +125,7 @@ module Jekyll
         @type ||= begin
           if page_seo["type"]
             page_seo["type"]
-          elsif homepage_or_about?
+          elsif homepage_or_About?
             "WebSite"
           elsif page["date"]
             "BlogPosting"
@@ -139,7 +139,7 @@ module Jekyll
         @links ||= begin
           if page_seo["links"]
             page_seo["links"]
-          elsif homepage_or_about? && site_social["links"]
+          elsif homepage_or_About? && site_social["links"]
             site_social["links"]
           end
         end
@@ -189,8 +189,8 @@ module Jekyll
         @site ||= @context.registers[:site].site_payload["site"].to_liquid
       end
 
-      def homepage_or_about?
-        page["url"] =~ HOMEPAGE_OR_ABOUT_REGEX
+      def homepage_or_About?
+        page["url"] =~ HOMEPAGE_OR_About_REGEX
       end
 
       def page_number

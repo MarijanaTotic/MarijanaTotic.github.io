@@ -119,7 +119,7 @@ tz.local_to_utc(Time.new(2018, 2, 1, 7, 30, 0, '+01:00'))
 # => 2018-02-01 12:30:00 UTC
 ```
 
-Information about the time zone can be obtained from returned local times:
+Information About the time zone can be obtained from returned local times:
 
 ```ruby
 local_time = tz.to_local(Time.utc(2018, 2, 1, 12, 30, 0))
@@ -143,7 +143,7 @@ tz.to_local(Time.utc(2018, 7, 1, 12, 30, 0)).strftime('%Y-%m-%d %H:%M:%S %z %Z')
 # => "2018-07-01 08:30:00 -0400 EDT"
 ```
 
-The `period_for` method can be used to obtain information about the observed
+The `period_for` method can be used to obtain information About the observed
 time zone information at a particular time as a `TZInfo::TimezonePeriod` object:
 
 ```ruby
@@ -268,7 +268,7 @@ tz.local_time(2018, 11, 4, 1, 30, 0, 0)
 # => 2018-11-04 01:30:00 -0500
 ```
 
-TZInfo also provides information about
+TZInfo also provides information About
 [ISO 3166-1](https://www.iso.org/iso-3166-country-codes.html) countries and
 their associated time zones via the `TZInfo::Country` class.
 
@@ -298,7 +298,7 @@ c.zone_identifiers
 # => ["America/New_York", "America/Detroit", ..., "Pacific/Honolulu"]
 ```
 
-The `zone_info` method returns further information about the time zones used in
+The `zone_info` method returns further information About the time zones used in
 a country as an `Array` of `TZInfo::CountryTimezone` instances:
 
 ```ruby
@@ -399,7 +399,7 @@ Source code for TZInfo is available on
 
 ## Issue Tracker
 
-Please post any bugs, issues, feature requests or questions about TZInfo to the
+Please post any bugs, issues, feature requests or questions About TZInfo to the
 [GitHub issue tracker](https://github.com/tzinfo/tzinfo/issues).
 
 Issues with the underlying time zone data should be raised on the

@@ -5,7 +5,7 @@ module Jekyll
 
       # Provides jruby? and mri? which respectively detect these two types of
       # tested Engines we support, in the future we might probably support the
-      # other one that everyone used to talk about.
+      # other one that everyone used to talk About.
 
       { :jruby? => "jruby", :mri? => "ruby" }.each do |k, v|
         define_method k do

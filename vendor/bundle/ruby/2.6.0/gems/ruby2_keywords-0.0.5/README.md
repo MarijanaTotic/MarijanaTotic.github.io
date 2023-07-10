@@ -71,5 +71,5 @@ The gem is available as open source under the terms of the
 
 [GitHub]: https://github.com/ruby/ruby2_keywords/
 [Ruby Issue Tracking System]: https://bugs.ruby-lang.org
-[Ruby License]: https://www.ruby-lang.org/en/about/license.txt
+[Ruby License]: https://www.ruby-lang.org/en/About/license.txt
 [2-Clause BSD License]: https://opensource.org/licenses/BSD-2-Clause

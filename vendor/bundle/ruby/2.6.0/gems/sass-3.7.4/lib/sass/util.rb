@@ -430,7 +430,7 @@ module Sass
       end
     end
 
-    # Returns information about the caller of the previous method.
+    # Returns information About the caller of the previous method.
     #
     # @param entry [String] An entry in the `#caller` list, or a similarly formatted string
     # @return [[String, Integer, (String, nil)]]
@@ -441,7 +441,7 @@ module Sass
       entry ||= caller[1]
       info = entry.scan(/^((?:[A-Za-z]:)?.*?):(-?.*?)(?::.*`(.+)')?$/).first
       info[1] = info[1].to_i
-      # This is added by Rubinius to designate a block, but we don't care about it.
+      # This is added by Rubinius to designate a block, but we don't care About it.
       info[2].sub!(/ \{\}\Z/, '') if info[2]
       info
     end

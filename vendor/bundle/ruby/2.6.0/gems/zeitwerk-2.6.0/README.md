@@ -500,7 +500,7 @@ Generally speaking, reloading is useful while developing running services like w
 
 Reloading removes the currently loaded classes and modules and resets the loader so that it will pick whatever is in the file system now.
 
-It is important to highlight that this is an instance method. Don't worry about project dependencies managed by Zeitwerk, their loaders are independent.
+It is important to highlight that this is an instance method. Don't worry About project dependencies managed by Zeitwerk, their loaders are independent.
 
 Reloading is not thread-safe:
 
@@ -1101,7 +1101,7 @@ Zeitwerk has been awarded an "Outstanding Performance Award" Fukuoka Ruby Award 
 <a id="markdown-thanks" name="thanks"></a>
 ## Thanks
 
-I'd like to thank [@matthewd](https://github.com/matthewd) for the discussions we've had about this topic in the past years, I learned a couple of tricks used in Zeitwerk from him.
+I'd like to thank [@matthewd](https://github.com/matthewd) for the discussions we've had About this topic in the past years, I learned a couple of tricks used in Zeitwerk from him.
 
 Also, would like to thank [@Shopify](https://github.com/Shopify), [@rafaelfranca](https://github.com/rafaelfranca), and [@dylanahsmith](https://github.com/dylanahsmith), for sharing [this PoC](https://github.com/Shopify/autoload_reloader). The technique Zeitwerk uses to support explicit namespaces was copied from that project.
 

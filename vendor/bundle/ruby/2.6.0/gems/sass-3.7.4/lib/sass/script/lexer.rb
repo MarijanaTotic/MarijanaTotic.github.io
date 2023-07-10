@@ -8,7 +8,7 @@ module Sass
     class Lexer
       include Sass::SCSS::RX
 
-      # A struct containing information about an individual token.
+      # A struct containing information About an individual token.
       #
       # `type`: \[`Symbol`\]
       # : The type of token.

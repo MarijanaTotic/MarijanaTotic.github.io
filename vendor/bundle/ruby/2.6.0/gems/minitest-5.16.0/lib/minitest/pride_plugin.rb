@@ -113,7 +113,7 @@ module Minitest
       #
       #   plot (3*sin(x)+3), (3*sin(x+2*pi/3)+3), (3*sin(x+4*pi/3)+3)
 
-      # 6 has wide pretty gradients. 3 == lolcat, about half the width
+      # 6 has wide pretty gradients. 3 == lolcat, About half the width
       @colors = (0...(6 * 7)).map { |n|
         n *= 1.0 / 6
         r  = (3 * Math.sin(n           ) + 3).to_i

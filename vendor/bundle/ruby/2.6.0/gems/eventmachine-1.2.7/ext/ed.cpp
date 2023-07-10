@@ -35,7 +35,7 @@ bool SetSocketNonblocking (SOCKET sd)
 	#ifdef OS_WIN32
 	#ifdef BUILD_FOR_RUBY
 	// 14Jun09 Ruby provides its own wrappers for ioctlsocket. On 1.8 this is a simple wrapper,
-	// however, 1.9 keeps its own state about the socket.
+	// however, 1.9 keeps its own state About the socket.
 	// NOTE: F_GETFL is not supported
 	return (fcntl (sd, F_SETFL, O_NONBLOCK) == 0) ? true : false;
 	#else
@@ -1482,7 +1482,7 @@ LoopbreakDescriptor::LoopbreakDescriptor (SOCKET sd, EventMachine_t *parent_em):
 	EventableDescriptor (sd, parent_em)
 {
 	/* This is really bad and ugly. Change someday if possible.
-	 * We have to know about an event-machine (probably the one that owns us),
+	 * We have to know About an event-machine (probably the one that owns us),
 	 * so we can pass newly-created connections to it.
 	 */
 
@@ -1776,7 +1776,7 @@ void DatagramDescriptor::Read()
 
 
 			// Set up a "temporary" return address so that callers can "reply" to us
-			// from within the callback we are about to invoke. That means that ordinary
+			// from within the callback we are About to invoke. That means that ordinary
 			// calls to "send_data_to_connection" (which is of course misnamed in this
 			// case) will result in packets being sent back to the same place that sent
 			// us this one.

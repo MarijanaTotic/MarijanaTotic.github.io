@@ -181,7 +181,7 @@ ffi_prep_args (void *stack, extended_cif *ecif)
 
       p_argv++;
 
-      /* Be careful, once all registers are filled, and about to continue
+      /* Be careful, once all registers are filled, and About to continue
          on stack, regp == stackp.  Therefore the check for regused as well. */
       if (argp == (char *)regp && regused < 8)
 	{
@@ -335,7 +335,7 @@ ffi_prep_closure_args_OBSD (ffi_cif *cif, void **avalue, unsigned int *regp,
 
       p_argv++;
 
-      /* Be careful, once all registers are exhausted, and about to fetch from
+      /* Be careful, once all registers are exhausted, and About to fetch from
 	 stack, regp == stackp.  Therefore the check for regused as well. */
       if (argp == (char *)regp && regused < 8)
 	{

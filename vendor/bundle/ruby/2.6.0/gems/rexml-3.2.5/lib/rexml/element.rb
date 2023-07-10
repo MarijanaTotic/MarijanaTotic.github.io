@@ -7,7 +7,7 @@ require_relative "xpath"
 require_relative "parseexception"
 
 module REXML
-  # An implementation note about namespaces:
+  # An implementation note About namespaces:
   # As we parse, when we find namespaces we put them in a hash and assign
   # them a unique ID.  We then convert the namespace prefix for the node
   # to the unique ID.  This makes namespace lookup much faster for the
@@ -284,7 +284,7 @@ module REXML
     # Mechanisms for accessing attributes and child elements of this
     # element.
     attr_reader :attributes, :elements
-    # The context holds information about the processing environment, such as
+    # The context holds information About the processing environment, such as
     # whitespace handling.
     attr_accessor :context
 

@@ -70,7 +70,7 @@
 
 ### Development Fixes
 
-  * Adding information about exclusion flag (#45)
+  * Adding information About exclusion flag (#45)
 
 ## 0.6.0 / 2014-09-05
 

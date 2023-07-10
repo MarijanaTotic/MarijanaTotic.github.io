@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib".freeze]
   s.authors = ["Thibaud Guillaume-Gentil".freeze]
   s.date = "2022-01-13"
-  s.description = "The Listen gem listens to file modifications and notifies you about the changes. Works everywhere!".freeze
+  s.description = "The Listen gem listens to file modifications and notifies you About the changes. Works everywhere!".freeze
   s.email = "thibaud@thibaud.gg".freeze
   s.executables = ["listen".freeze]
   s.files = ["bin/listen".freeze]

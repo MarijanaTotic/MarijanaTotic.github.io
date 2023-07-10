@@ -2,7 +2,7 @@
 # speed up the interpolation process on the Simple backend.
 #
 # It works by defining a pre-compiled method on stored translation Strings that
-# already bring all the knowledge about contained interpolation variables etc.
+# already bring all the knowledge About contained interpolation variables etc.
 # so that the actual recurring interpolation will be very fast.
 #
 # To enable pre-compiled interpolations you can simply include the

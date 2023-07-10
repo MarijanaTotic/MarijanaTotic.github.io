@@ -141,7 +141,7 @@ concurrent-ruby:
 * (#654) Promise.zip execution changes
 * (#666) Add thread safe set implementation
 * (#651) #699 #to_s, #inspect should not output negative object IDs.
-* (#685) Avoid RSpec warnings about raise_error
+* (#685) Avoid RSpec warnings About raise_error
 * (#680) Avoid RSpec monkey patching, persist spec results locally, use RSpec
   v3.7.0
 * (#665) Initialize the monitor for new subarrays on Rubinius

@@ -914,7 +914,7 @@ ffi_closure_helper_SYSV (ffi_cif *cif,
      r3/r4 we have to tell ffi_closure_SYSV how to treat them.  We
      combine the base type FFI_SYSV_TYPE_SMALL_STRUCT with the size of
      the struct less one.  We never have a struct with size zero.
-     See the comment in ffitarget.h about ordering.  */
+     See the comment in ffitarget.h About ordering.  */
   if (rtypenum == FFI_TYPE_STRUCT
       && (cif->abi & FFI_SYSV_STRUCT_RET) != 0 && size <= 8)
     return FFI_SYSV_TYPE_SMALL_STRUCT - 1 + size;

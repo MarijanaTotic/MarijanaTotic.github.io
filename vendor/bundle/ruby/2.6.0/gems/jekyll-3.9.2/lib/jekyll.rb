@@ -163,7 +163,7 @@ module Jekyll
     #         and prepends the questionable path with the base directory if false.
     #
     # base_directory - the directory with which to prefix the questionable path
-    # questionable_path - the path we're unsure about, and want prefixed
+    # questionable_path - the path we're unsure About, and want prefixed
     #
     # Returns the sanitized path.
     def sanitized_path(base_directory, questionable_path)

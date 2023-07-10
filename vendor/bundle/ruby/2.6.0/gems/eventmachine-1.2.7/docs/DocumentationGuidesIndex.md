@@ -21,7 +21,7 @@ and so on).
 
 ## Tell us what you think! ##
 
-Please take a moment and tell us what you think about this guide on the [EventMachine mailing list](http://bit.ly/jW3cR3)
+Please take a moment and tell us what you think About this guide on the [EventMachine mailing list](http://bit.ly/jW3cR3)
 or in the #eventmachine channel on irc.freenode.net: what was unclear? What wasn't covered?
 Maybe you don't like the guide style or the grammar and spelling are incorrect? Reader feedback is
 key to making documentation better.

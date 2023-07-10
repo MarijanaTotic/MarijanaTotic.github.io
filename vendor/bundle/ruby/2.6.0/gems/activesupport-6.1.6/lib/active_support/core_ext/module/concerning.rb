@@ -11,7 +11,7 @@ class Module
   # Extracting a plain old Ruby object to encapsulate it and collaborate or
   # delegate to the original object is often a good choice, but when there's
   # no additional state to encapsulate or we're making DSL-style declarations
-  # about the parent class, introducing new collaborators can obfuscate rather
+  # About the parent class, introducing new collaborators can obfuscate rather
   # than simplify.
   #
   # The typical route is to just dump everything in a monolithic class, perhaps

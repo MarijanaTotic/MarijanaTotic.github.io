@@ -42,7 +42,7 @@ module TZInfo
     # offset_id refers to an id defined with offset. ArgumentError will be 
     # raised if the offset_id cannot be found. numerator_or_time and
     # denomiator specify the time the transition occurs as. See 
-    # TimezoneTransition for more detail about specifying times.
+    # TimezoneTransition for more detail About specifying times.
     def transition(year, month, offset_id, numerator_or_timestamp, denominator_or_numerator = nil, denominator = nil)
       offset = @offsets[offset_id]      
       raise ArgumentError, 'Offset not found' unless offset

@@ -15,13 +15,13 @@ Compilers for high level languages generate code that follow certain
 conventions. These conventions are necessary, in part, for separate
 compilation to work. One such convention is the "calling
 convention". The "calling convention" is essentially a set of
-assumptions made by the compiler about where function arguments will
+assumptions made by the compiler About where function arguments will
 be found on entry to a function. A "calling convention" also specifies
 where the return value for a function is found.
 
 Some programs may not know at the time of compilation what arguments
 are to be passed to a function. For instance, an interpreter may be
-told at run-time about the number and types of arguments used to call
+told at run-time About the number and types of arguments used to call
 a given function. Libffi can be used in such programs to provide a
 bridge from the interpreter program to compiled code.
 
@@ -362,7 +362,7 @@ See the git log for details at http://github.com/libffi/libffi.
     
     1.13 Dec-2-96
         Added --enable-purify-safety to keep Purify from complaining
-          about certain low level code.
+          About certain low level code.
         Sparc fix for calling functions with < 6 args.
         Linux x86 a.out fix.
     
@@ -372,7 +372,7 @@ See the git log for details at http://github.com/libffi/libffi.
           is now Cygnus Solutions. 
     
     1.11 Oct-30-96
-        Added notes about GNU make.
+        Added notes About GNU make.
     
     1.10 Oct-29-96
         Added configuration fix for non GNU compilers.

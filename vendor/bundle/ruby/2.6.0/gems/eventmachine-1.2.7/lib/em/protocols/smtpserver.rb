@@ -524,13 +524,13 @@ module EventMachine
 
 
       # Send the incoming data to the application one chunk at a time, rather than
-      # one line at a time. That lets the application be a little more flexible about
+      # one line at a time. That lets the application be a little more flexible About
       # storing to disk, etc.
       # Since we clear the chunk array every time we submit it, the caller needs to be
       # aware to do things like dup it if he wants to keep it around across calls.
       #
       # Resets the transaction upon disposition of the incoming message.
-      # RFC5321 says this about the MAIL FROM command:
+      # RFC5321 says this About the MAIL FROM command:
       #  "This command tells the SMTP-receiver that a new mail transaction is
       #   starting and to reset all its state tables and buffers, including any
       #   recipients or mail data."

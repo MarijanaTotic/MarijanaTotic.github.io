@@ -35,8 +35,8 @@ require_relative "nokogiri/extension"
 #
 # See also:
 #
-# - Nokogiri::XML::Searchable#css for more information about CSS searching
-# - Nokogiri::XML::Searchable#xpath for more information about XPath searching
+# - Nokogiri::XML::Searchable#css for more information About CSS searching
+# - Nokogiri::XML::Searchable#xpath for more information About XPath searching
 module Nokogiri
   class << self
     ###

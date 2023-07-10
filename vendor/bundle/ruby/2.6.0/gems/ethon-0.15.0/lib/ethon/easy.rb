@@ -148,7 +148,7 @@ module Ethon
     #   * :unknown_option: An option passed to libcurl is not recognized/known.
     #     Refer to the appropriate documentation. This is most likely a
     #     problem in the program that uses libcurl. The error buffer might
-    #     contain more specific information about which exact option it concerns.
+    #     contain more specific information About which exact option it concerns.
     #   * :telnet_option_syntax: A telnet option string was Illegally formatted.
     #   * :peer_failed_verification: The remote server's SSL certificate or
     #     SSH md5 fingerprint was deemed not OK.

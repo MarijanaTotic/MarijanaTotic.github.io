@@ -101,4 +101,4 @@ q59MIs/Fb3SgaO+zN2FZTYp6dyRJHbeEz55JdOu6F+6ihZYH
 
 ## Tracking Security Updates
 
-Information about security vulnerabilities are published in the [Security Advisories](https://github.com/weppos/publicsuffix-ruby/security/advisories) page.
+Information About security vulnerabilities are published in the [Security Advisories](https://github.com/weppos/publicsuffix-ruby/security/advisories) page.

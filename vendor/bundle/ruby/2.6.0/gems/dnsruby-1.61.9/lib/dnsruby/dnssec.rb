@@ -219,7 +219,7 @@ module Dnsruby
         TheLog.debug("Starting validation")
 
         #  Validate!
-        #  Need to think about trapping/storing exceptions and security_levels here
+        #  Need to think About trapping/storing exceptions and security_levels here
         last_error = ""
         last_level = Message::SecurityLevel.BOGUS
         last_error_level = Message::SecurityLevel.BOGUS

@@ -134,7 +134,7 @@ Lint/ParenthesesAsGroupedExpression:
 Lint/RequireParentheses:
   Description: >-
                  Use parentheses in the method call to avoid confusion
-                 about precedence.
+                 About precedence.
   Enabled: true
 
 Lint/RescueException:
@@ -281,7 +281,7 @@ Performance/FlatMap:
   Reference: 'https://github.com/JuanitoFatas/fast-ruby#enumerablemaparrayflatten-vs-enumerableflat_map-code'
   Enabled: true
   EnabledForFlattenWithoutParams: false
-  # If enabled, this cop will warn about usages of
+  # If enabled, this cop will warn About usages of
   # `flatten` being called without any parameters.
   # This can be dangerous since `flat_map` will only flatten 1 level, and
   # `flatten` without any parameters can flatten multiple levels.

@@ -68,4 +68,4 @@ gem 'htmlbeautifier'
    be no more than 50 characters, and not end with a period).
 2. Include tests.
 
-[git-commit]:http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
+[git-commit]:http://tbaggery.com/2008/04/19/a-note-About-git-commit-messages.html

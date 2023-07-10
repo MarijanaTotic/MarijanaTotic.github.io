@@ -656,7 +656,7 @@ module Minitest
   end
 
   ##
-  # A reporter that gathers statistics about a test run. Does not do
+  # A reporter that gathers statistics About a test run. Does not do
   # any IO because meant to be used as a parent class for a reporter
   # that does.
   #

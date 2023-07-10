@@ -141,7 +141,7 @@ Style/EmptyElse:
 Style/EmptyMethod:
   Enabled: false
 
-# We don't care about the format style.
+# We don't care About the format style.
 # In most cases we use %, but not at the point we want to enforce it
 # as a convention in the entire code.
 Style/FormatString:

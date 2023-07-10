@@ -114,11 +114,11 @@ The site's default CSS has now moved to a new place within the gem itself, [`ass
 
 This allows you to set which pages you want to appear in the navigation area and configure order of the links.
 
-For instance, to only link to the `about` and the `portfolio` page, add the following to you `_config.yml`:
+For instance, to only link to the `About` and the `portfolio` page, add the following to you `_config.yml`:
 
 ```yaml
 header_pages:
-  - about.md
+  - About.md
   - portfolio.md
 ```
 
@@ -149,7 +149,7 @@ To enable it, add the following lines to your Jekyll site:
     shortname: my_disqus_shortname
 ```
 
-You can find out more about Disqus' shortnames [here](https://help.disqus.com/customer/portal/articles/466208).
+You can find out more About Disqus' shortnames [here](https://help.disqus.com/customer/portal/articles/466208).
 
 Comments are enabled by default and will only appear in production, i.e., `JEKYLL_ENV=production`
 

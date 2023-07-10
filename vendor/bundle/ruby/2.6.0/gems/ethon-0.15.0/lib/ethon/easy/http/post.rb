@@ -2,7 +2,7 @@
 module Ethon
   class Easy
     module Http
-      # This class knows everything about making POST requests.
+      # This class knows everything About making POST requests.
       class Post
         include Ethon::Easy::Http::Actionable
         include Ethon::Easy::Http::Postable

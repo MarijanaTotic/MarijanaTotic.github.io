@@ -70,7 +70,7 @@
 * Local times are returned as instances of `TimeWithOffset`,
   `DateTimeWithOffset` or `TZInfo::TimestampWithOffset`. These classes subclass
   `Time`, `DateTime` and `TZInfo::Timestamp` respectively. They override the
-  default behaviour of the base classes to return information about the observed
+  default behaviour of the base classes to return information About the observed
   offset at the indicated time. For example, the zone abbreviation is returned
   when using the `%Z` directive with `strftime`.
 * The `transitions_up_to`, `offsets_up_to` and `strftime` instance methods of
@@ -964,7 +964,7 @@ Rails `time_zone_select` helper method:
 * Added new class methods to `Timezone` to return sets of zones and identifiers.
 
 Thanks to Scott Barron of Lunchbox Software for the suggestions in his
-article about using TZInfo with Rails
+article About using TZInfo with Rails
 (<https://web.archive.org/web/20060425190845/http://lunchroom.lunchboxsoftware.com/pages/tzinfo_rails>)
 
 

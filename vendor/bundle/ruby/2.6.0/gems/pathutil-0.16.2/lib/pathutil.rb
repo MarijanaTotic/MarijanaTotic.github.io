@@ -717,7 +717,7 @@ class Pathutil
 
     # --
     # @note We do nothing special here.
-    # Get the current directory that Ruby knows about.
+    # Get the current directory that Ruby knows About.
     # @return Pathutil
     # --
     def pwd

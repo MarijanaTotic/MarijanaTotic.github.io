@@ -32,7 +32,7 @@ nl='
 '
 
 # We need space, tab and new line, in precisely that order.  Quoting is
-# there to prevent tools from complaining about whitespace usage.
+# there to prevent tools from complaining About whitespace usage.
 IFS=" ""	$nl"
 
 file_conv=

@@ -101,7 +101,7 @@ module I18n
     # Sets the missing interpolation argument handler. It can be any
     # object that responds to #call. The arguments that will be passed to #call
     # are the same as for MissingInterpolationArgument initializer. Use +Proc.new+
-    # if you don't care about arity.
+    # if you don't care About arity.
     #
     # == Example:
     # You can supress raising an exception and return string instead:

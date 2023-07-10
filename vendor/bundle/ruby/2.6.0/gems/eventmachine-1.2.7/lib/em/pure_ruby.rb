@@ -695,7 +695,7 @@ module EventMachine
         @io.fcntl(Fcntl::F_SETFL, Fcntl::O_NONBLOCK | m)
       else
         # Windows doesn't define F_GETFL.
-        # It's not very reliable about setting descriptors nonblocking either.
+        # It's not very reliable About setting descriptors nonblocking either.
         begin
           s = Socket.for_fd(@io.fileno)
           s.fcntl( Fcntl::F_SETFL, Fcntl::O_NONBLOCK )
@@ -849,7 +849,7 @@ module EventMachine
 
     # #send_data
     def send_data data
-      # TODO, coalesce here perhaps by being smarter about appending to @outbound_q.last?
+      # TODO, coalesce here perhaps by being smarter About appending to @outbound_q.last?
       unless @close_scheduled or @close_requested or !data or data.length <= 0
         @outbound_q << data.to_s
       end
@@ -1180,7 +1180,7 @@ module EventMachine
 
     # #send_datagram
     def send_datagram data, target
-      # TODO, coalesce here perhaps by being smarter about appending to @outbound_q.last?
+      # TODO, coalesce here perhaps by being smarter About appending to @outbound_q.last?
       unless @close_scheduled or @close_requested
         @outbound_q << [data.to_s, target]
       end

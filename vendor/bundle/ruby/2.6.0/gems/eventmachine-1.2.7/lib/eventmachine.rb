@@ -570,7 +570,7 @@ module EventMachine
   # It also takes an optional handler (a module or a subclass of {EventMachine::Connection}) which you must define, that
   # contains the callbacks that will be invoked by the event loop on behalf of the connection.
   #
-  # Learn more about connection lifecycle callbacks in the {file:docs/GettingStarted.md EventMachine tutorial} and
+  # Learn more About connection lifecycle callbacks in the {file:docs/GettingStarted.md EventMachine tutorial} and
   # {file:docs/ConnectionLifecycleCallbacks.md Connection lifecycle guide}.
   #
   #

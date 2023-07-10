@@ -6,7 +6,7 @@
     <id>http://www.zotero.org/styles/evolutionary-systematics</id>
     <link href="http://www.zotero.org/styles/evolutionary-systematics" rel="self"/>
     <link href="http://www.zotero.org/styles/pensoft-journals" rel="independent-parent"/>
-    <link href="https://evolsyst.pensoft.net/about#CitationsandReferences" rel="documentation"/>
+    <link href="https://evolsyst.pensoft.net/About#CitationsandReferences" rel="documentation"/>
     <category citation-format="author-date"/>
     <category field="biology"/>
     <eissn>2535-0730</eissn>

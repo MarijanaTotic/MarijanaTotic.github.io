@@ -30,8 +30,8 @@ class String
   # String and Char work like expected. The bang! methods change the internal string representation in the Chars
   # object. Interoperability problems can be resolved easily with a +to_s+ call.
   #
-  # For more information about the methods defined on the Chars proxy see ActiveSupport::Multibyte::Chars. For
-  # information about how to change the default Multibyte behavior see ActiveSupport::Multibyte.
+  # For more information About the methods defined on the Chars proxy see ActiveSupport::Multibyte::Chars. For
+  # information About how to change the default Multibyte behavior see ActiveSupport::Multibyte.
   def mb_chars
     ActiveSupport::Multibyte.proxy_class.new(self)
   end

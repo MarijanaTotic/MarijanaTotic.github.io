@@ -2,7 +2,7 @@
 module Ethon
   class Easy
 
-    # This module contains logic about building
+    # This module contains logic About building
     # query parameters for url or form.
     module Queryable
 

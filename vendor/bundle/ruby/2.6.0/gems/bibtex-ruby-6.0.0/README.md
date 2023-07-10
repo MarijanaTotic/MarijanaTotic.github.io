@@ -564,7 +564,7 @@ The BibTeX-Ruby parser is generated using the awesome
 look at the LALR grammar in the file
 [lib/bibtex/bibtex.y](https://github.com/inukshuk/bibtex-ruby/blob/master/lib/bibtex/bibtex.y).
 
-For more information about the BibTeX format and the parser's idiosyncrasies
+For more information About the BibTeX format and the parser's idiosyncrasies
 [refer to the project wiki](https://github.com/inukshuk/bibtex-ruby/wiki/The-BibTeX-Format).
 
 

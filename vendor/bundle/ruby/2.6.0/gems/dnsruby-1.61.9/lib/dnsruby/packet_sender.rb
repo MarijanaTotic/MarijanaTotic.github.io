@@ -35,7 +35,7 @@ module Dnsruby
           (response.rcode == RCode::NOERROR) &&(!response.tsig) &&
           (query.class != Update) &&
           (response.header.ancount > 0))
-        # # @TODO@ What about TSIG-signed responses?
+        # # @TODO@ What About TSIG-signed responses?
         #  Don't cache any packets with "*" in the query name! (RFC1034 sec 4.3.3)
         if (!question.qname.to_s.include? "*")
           #  Now cache response RRSets
@@ -246,7 +246,7 @@ module Dnsruby
     end
 
     def close
-      #  @TODO@ What about closing?
+      #  @TODO@ What About closing?
       #  Any queries to complete? Sockets to close?
     end
 

@@ -9,7 +9,7 @@ require "active_support/core_ext/module/delegation"
 module ActiveSupport #:nodoc:
   module Multibyte #:nodoc:
     # Chars enables you to work transparently with UTF-8 encoding in the Ruby
-    # String class without having extensive knowledge about the encoding. A
+    # String class without having extensive knowledge About the encoding. A
     # Chars object accepts a string upon initialization and proxies String
     # methods in an encoding safe manner. All the normal String methods are also
     # implemented on the proxy.

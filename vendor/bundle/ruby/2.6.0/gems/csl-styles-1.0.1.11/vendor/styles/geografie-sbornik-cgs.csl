@@ -5,7 +5,7 @@
     <id>http://www.zotero.org/styles/geografie-sbornik-cgs</id>
     <link href="http://www.zotero.org/styles/geografie-sbornik-cgs" rel="self"/>
     <link href="http://www.zotero.org/styles/iso690-author-date-cs" rel="template"/>
-    <link href="http://geography.cz/sbornik/about-proceedings/instructions-for-authors/" rel="documentation"/>
+    <link href="http://geography.cz/sbornik/About-proceedings/instructions-for-authors/" rel="documentation"/>
     <author>
       <name>Libor Ansorge</name>
       <email>libor.ansorge@gmail.com</email>

@@ -123,7 +123,7 @@ module Dnsruby
       def message
         m = Message.decode(@message.encode)
         m.cached = true
-        #  @TODO@ What do we do about answerfrom, answersize, etc.?
+        #  @TODO@ What do we do About answerfrom, answersize, etc.?
         m.header.aa = false # Anything else to do here?
         #  Fix up TTLs!!
         offset = (Time.now - @time_stored).to_i

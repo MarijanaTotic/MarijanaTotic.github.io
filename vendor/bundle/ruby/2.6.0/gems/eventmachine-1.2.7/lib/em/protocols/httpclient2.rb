@@ -578,7 +578,7 @@ module EventMachine
     # Set instance variable @closed. That's used to inhibit further
     # processing of any inbound data after an error has been recognized.
     #
-    # We shouldn't have to worry about any leftover outbound data,
+    # We shouldn't have to worry About any leftover outbound data,
     # because we call close_connection (not close_connection_after_writing).
     # That ensures that any pipelined requests received after an error
     # DO NOT get streamed out to the server on this connection.

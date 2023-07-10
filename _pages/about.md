@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: About
 title: About
 permalink: /
 
@@ -20,7 +20,7 @@ This is a test. computational linguist based at the [University of Tübingen](ht
 
 I am currently doing fieldresearch in Central Brazil, studying two languages from different language families. One of these communities is working with me on a language revitalization project, which I am actively involved in.
 
-At the University of Tübingen, I teach courses on language structure and linguistic diversity, drawing on my research to provide students with a comprehensive understanding of the field. I am passionate about sharing my knowledge with others and inspiring the next generation of linguists.
+At the University of Tübingen, I teach courses on language structure and linguistic diversity, drawing on my research to provide students with a comprehensive understanding of the field. I am passionate About sharing my knowledge with others and inspiring the next generation of linguists.
 
 ---
 ## Educational background

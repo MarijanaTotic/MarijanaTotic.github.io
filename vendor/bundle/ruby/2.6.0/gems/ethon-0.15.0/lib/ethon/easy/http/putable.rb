@@ -3,7 +3,7 @@ module Ethon
   class Easy
     module Http
 
-      # This module contains logic about setting up a PUT body.
+      # This module contains logic About setting up a PUT body.
       module Putable
         # Set things up when form is provided.
         # Deals with multipart forms.

@@ -194,7 +194,7 @@ namespace Sass {
     SASS_ASSERT(l_last, "lhs is null");
     SASS_ASSERT(r_last, "rhs is null");
 
-    // Not sure about this check, but closest way I could check
+    // Not sure About this check, but closest way I could check
     // was to see if this is a ruby 'SimpleSequence' equivalent.
     // It seems to do the job correctly as some specs react to this
     if (l_last->combinator() != Combinator::ANCESTOR_OF) return nullptr;

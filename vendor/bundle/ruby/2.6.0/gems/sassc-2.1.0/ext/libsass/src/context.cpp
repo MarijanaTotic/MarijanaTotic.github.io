@@ -277,7 +277,7 @@ namespace Sass {
     // get index for this resource
     size_t idx = resources.size();
 
-    // tell emitter about new resource
+    // tell emitter About new resource
     emitter.add_source_index(idx);
 
     // put resources under our control

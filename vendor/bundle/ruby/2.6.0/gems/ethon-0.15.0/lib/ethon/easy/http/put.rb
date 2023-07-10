@@ -3,7 +3,7 @@ module Ethon
   class Easy
     module Http
 
-      # This class knows everything about making PUT requests.
+      # This class knows everything About making PUT requests.
       class Put
         include Ethon::Easy::Http::Actionable
         include Ethon::Easy::Http::Putable

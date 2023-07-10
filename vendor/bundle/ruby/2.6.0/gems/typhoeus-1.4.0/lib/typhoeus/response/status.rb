@@ -1,7 +1,7 @@
 module Typhoeus
   class Response
 
-    # This module contains logic about the http
+    # This module contains logic About the http
     # status.
     module Status
 

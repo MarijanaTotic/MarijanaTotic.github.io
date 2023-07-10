@@ -1,5 +1,5 @@
 # I18n translation metadata is useful when you want to access information
-# about how a translation was looked up, pluralized or interpolated in
+# About how a translation was looked up, pluralized or interpolated in
 # your application.
 #
 #   msg = I18n.t(:message, :default => 'Hi!', :scope => :foo)

@@ -48,7 +48,7 @@ def perform_libyaml_check(force=false)
   puts <<-EOM.gsub(/^ +/, '  ')
 
     Hit Enter to check if your version of libyaml is vulnerable. This will run a test \e[31mwhich may crash\e[39m
-    \e[31mthe current process\e[39m. If it does, your system is vulnerable and you should do something about it.
+    \e[31mthe current process\e[39m. If it does, your system is vulnerable and you should do something About it.
 
     Type "nm" and hit Enter if you don't want to run the check.
 

@@ -7,9 +7,9 @@ module Nokogiri
     # dealing with XML. If you want to do SAX style parsing using HTML, check out
     # Nokogiri::HTML4::SAX.
     #
-    # The basic way a SAX style parser works is by creating a parser, telling the parser about the
+    # The basic way a SAX style parser works is by creating a parser, telling the parser About the
     # events we're interested in, then giving the parser some XML to process. The parser will notify
-    # you when it encounters events you said you would like to know about.
+    # you when it encounters events you said you would like to know About.
     #
     # To register for events, you simply subclass Nokogiri::XML::SAX::Document, and implement the
     # methods for which you would like notification.
@@ -47,9 +47,9 @@ module Nokogiri
       # This class is used for registering types of events you are interested in handling. All of
       # the methods on this class are available as possible events while parsing an XML document. To
       # register for any particular event, just subclass this class and implement the methods you
-      # are interested in knowing about.
+      # are interested in knowing About.
       #
-      # To only be notified about start and end element events, write a class like this:
+      # To only be notified About start and end element events, write a class like this:
       #
       #   class MyDocument < Nokogiri::XML::SAX::Document
       #     def start_element name, attrs = []

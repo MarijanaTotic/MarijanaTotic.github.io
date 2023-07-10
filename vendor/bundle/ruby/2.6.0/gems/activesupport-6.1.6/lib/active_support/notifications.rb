@@ -39,7 +39,7 @@ module ActiveSupport
   #   end
   #
   # Here, the +start+ and +finish+ values represent wall-clock time. If you are
-  # concerned about accuracy, you can register a monotonic subscriber.
+  # concerned About accuracy, you can register a monotonic subscriber.
   #
   #   ActiveSupport::Notifications.monotonic_subscribe('render') do |name, start, finish, id, payload|
   #     name    # => String, name of the event (such as 'render' from above)
@@ -215,7 +215,7 @@ module ActiveSupport
       #     @event = ActiveSupport::Notifications::Event.new(*args)
       #   end
       #
-      # The +block+ will receive five parameters with information about the event:
+      # The +block+ will receive five parameters with information About the event:
       #
       #   ActiveSupport::Notifications.subscribe('render') do |name, start, finish, id, payload|
       #     name    # => String, name of the event (such as 'render' from above)

@@ -5,7 +5,7 @@
     <id>http://www.zotero.org/styles/medical-physics</id>
     <link href="http://www.zotero.org/styles/medical-physics" rel="self"/>
     <link href="http://www.zotero.org/styles/american-medical-association" rel="independent-parent"/>
-    <link href="https://aapm.onlinelibrary.wiley.com/hub/journal/24734209/about/author-guidelines" rel="documentation"/>
+    <link href="https://aapm.onlinelibrary.wiley.com/hub/journal/24734209/About/author-guidelines" rel="documentation"/>
     <category citation-format="numeric"/>
     <category field="medicine"/>
     <category field="physics"/>

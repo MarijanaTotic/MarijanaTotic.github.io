@@ -30,7 +30,7 @@ Some guiding principles Nokogiri tries to follow:
 [![Appveyor CI](https://ci.appveyor.com/api/projects/status/xj2pqwvlxwuwgr06/branch/main?svg=true)](https://ci.appveyor.com/project/flavorjones/nokogiri/branch/main)
 
 [![Gem Version](https://badge.fury.io/rb/nokogiri.svg)](https://rubygems.org/gems/nokogiri)
-[![SemVer compatibility](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=nokogiri&package-manager=bundler&previous-version=1.11.7&new-version=1.12.5)](https://docs.github.com/en/code-security/supply-chain-security/managing-vulnerabilities-in-your-projects-dependencies/about-dependabot-security-updates#about-compatibility-scores)
+[![SemVer compatibility](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=nokogiri&package-manager=bundler&previous-version=1.11.7&new-version=1.12.5)](https://docs.github.com/en/code-security/supply-chain-security/managing-vulnerabilities-in-your-projects-dependencies/About-dependabot-security-updates#About-compatibility-scores)
 
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5344/badge)](https://bestpractices.coreinfrastructure.org/projects/5344)
 [![Tidelift dependencies](https://tidelift.com/badges/package/rubygems/nokogiri)](https://tidelift.com/subscription/pkg/rubygems-nokogiri?utm_source=rubygems-nokogiri&utm_medium=referral&utm_campaign=readme)
@@ -46,7 +46,7 @@ Consider subscribing to [Tidelift][tidelift] which provides license assurances a
 
 ### Reading
 
-Your first stops for learning more about Nokogiri should be:
+Your first stops for learning more About Nokogiri should be:
 
 - [API Documentation](https://nokogiri.org/rdoc/index.html)
 - [Tutorials](https://nokogiri.org/tutorials/toc.html)
@@ -80,7 +80,7 @@ Full information and description of our security policy is in [`SECURITY.md`](SE
 
 ### Semantic Versioning Policy
 
-Nokogiri follows [Semantic Versioning](https://semver.org/) (since 2017 or so). [![Dependabot's SemVer compatibility score for Nokogiri](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=nokogiri&package-manager=bundler&previous-version=1.11.7&new-version=1.12.5)](https://docs.github.com/en/code-security/supply-chain-security/managing-vulnerabilities-in-your-projects-dependencies/about-dependabot-security-updates#about-compatibility-scores)
+Nokogiri follows [Semantic Versioning](https://semver.org/) (since 2017 or so). [![Dependabot's SemVer compatibility score for Nokogiri](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=nokogiri&package-manager=bundler&previous-version=1.11.7&new-version=1.12.5)](https://docs.github.com/en/code-security/supply-chain-security/managing-vulnerabilities-in-your-projects-dependencies/About-dependabot-security-updates#About-compatibility-scores)
 
 We bump `Major.Minor.Patch` versions following this guidance:
 

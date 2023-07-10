@@ -1,7 +1,7 @@
 gemoji
 ======
 
-This library contains character information about native emoji, as well as image
+This library contains character information About native emoji, as well as image
 files for a few custom emoji.
 
 

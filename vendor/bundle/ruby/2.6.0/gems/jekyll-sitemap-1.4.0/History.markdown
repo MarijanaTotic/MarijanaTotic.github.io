@@ -51,7 +51,7 @@
 
 ### Documentation
 
-  * Add note about use with Github Pages gem (#179)
+  * Add note About use with Github Pages gem (#179)
   * Fix a couple of typos (#184)
   * Use plugins instead of gems in README config (#185)
   * Docs: set site.url in config (#172)
@@ -162,7 +162,7 @@
 
 ### Development Fixes
 
-  * Adding information about exclusion flag (#45)
+  * Adding information About exclusion flag (#45)
 
 ## 0.6.0 / 2014-09-05
 

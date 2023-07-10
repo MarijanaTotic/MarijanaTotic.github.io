@@ -7,7 +7,7 @@
 * *Fix segfault when an Exception is raised from unbind callback (for real this time!)*
 * Fix race condition while initializing the machine [#756]
 * Fix for newer compilers where bind() and std::bind() conflict [#830, #831]
-* Be verbose about SSL connection errors [#807]
+* Be verbose About SSL connection errors [#807]
 * Avoid explicitly calling class methods when in class scope
 * Java: Add EM_PROTO_SSL/TLS definitions [#773, #791]
 * Java: return zero when sending data to a closed connection [#475, #804]

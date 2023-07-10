@@ -326,7 +326,7 @@ module ActiveSupport
     #   1.hour.to_i     # => 3600
     #   1.day.to_i      # => 86400
     #
-    # Note that this conversion makes some assumptions about the
+    # Note that this conversion makes some assumptions About the
     # duration of some periods, e.g. months are always 1/12 of year
     # and years are 365.2425 days:
     #

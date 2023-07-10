@@ -91,7 +91,7 @@ module PublicSuffix
     #
     # Rule order is significant. A domain can match more than one rule.
     # See the {Public Suffix Documentation}[http://publicsuffix.org/format/]
-    # to learn more about rule priority.
+    # to learn more About rule priority.
     #
     # When you have the right rule, you can use it to tokenize the domain name.
     # 

@@ -6,7 +6,7 @@ module Octokit
     #
     # @see https://developer.github.com/v3/enterprise-admin/license/
     module License
-      # Get information about the Enterprise license
+      # Get information About the Enterprise license
       #
       # @return [Sawyer::Resource] The license information
       def license_info

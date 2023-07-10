@@ -18,7 +18,7 @@ First, create a notifier:
     notifier = INotify::Notifier.new
 
 Then, tell it to watch the paths you're interested in
-for the events you care about:
+for the events you care About:
 
     notifier.watch("path/to/foo.txt", :modify) {puts "foo.txt was modified!"}
     notifier.watch("path/to/bar", :moved_to, :create) do |event|

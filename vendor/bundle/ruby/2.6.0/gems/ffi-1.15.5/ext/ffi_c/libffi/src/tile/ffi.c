@@ -156,7 +156,7 @@ ffi_call(ffi_cif *cif, void (*fn)(void), void *rvalue, void **avalue)
     {
       /* Pass a hidden pointer to the return value. We make sure there
          is scratch space for the callee to store the return value even if
-         our caller doesn't care about it. */
+         our caller doesn't care About it. */
       *argp++ = (intptr_t)(rvalue ? rvalue : alloca(cif->rtype->size));
 
       /* No more work needed to return anything. */

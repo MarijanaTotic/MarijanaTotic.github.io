@@ -52,7 +52,7 @@ Here's a few general guidelines for proposing changes:
 * Each pull request should implement **one** feature or bug fix. If you want to add or fix more than one thing, submit more than one pull request
 * Do not commit changes to files that are irrelevant to your feature or bug fix
 * Don't bump the version number in your pull request (it will be bumped prior to release)
-* Write [a good commit message](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
+* Write [a good commit message](http://tbaggery.com/2008/04/19/a-note-About-git-commit-messages.html)
 
 At a high level, [the process for proposing changes](https://guides.github.com/introduction/flow/) is:
 

@@ -189,7 +189,7 @@ module INotify
     # @yield [event] A block that will be called
     #   whenever one of the specified events occur
     # @yieldparam event [Event] The Event object containing information
-    #   about the event that occured
+    #   About the event that occured
     # @return [Watcher] A Watcher set up to watch this path for these events
     # @raise [SystemCallError] if the file or directory can't be watched,
     #   e.g. if the file isn't found, read access is denied,

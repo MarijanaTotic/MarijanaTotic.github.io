@@ -3,7 +3,7 @@ module Ethon
   class Easy
     module Http
 
-      # This class knows everything about making OPTIONS requests.
+      # This class knows everything About making OPTIONS requests.
       class Options
         include Ethon::Easy::Http::Actionable
         include Ethon::Easy::Http::Postable

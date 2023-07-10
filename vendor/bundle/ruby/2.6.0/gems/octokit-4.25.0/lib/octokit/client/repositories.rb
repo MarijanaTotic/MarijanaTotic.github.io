@@ -744,7 +744,7 @@ module Octokit
       # @param repo [Integer, String, Hash, Repository] A GitHub repository.
       # @param event_type [String] A custom webhook event name.
       # @option options [Hash] :client_payload payload with extra information
-      #   about the webhook event that your action or worklow may use.
+      #   About the webhook event that your action or worklow may use.
       #
       # @return [Boolean] True if event was dispatched, false otherwise.
       # @see https://developer.github.com/v3/repos/#create-a-repository-dispatch-event

@@ -33,7 +33,7 @@
       - parts of series: article article-magazine article-newspaper article-journal.
       Notes:
       - Webpage is considered as a monograph available online only. 
-        Information about context or original publication should be given in the "note" variable (the "extra" field in Zotero) and will be rendered as is.
+        Information About context or original publication should be given in the "note" variable (the "extra" field in Zotero) and will be rendered as is.
       - Individual reference types may not conform exactly to ABNT standard, but are rendered as closest as possible.
       - Support to other reference types will be added eventually.</summary>
     <updated>2018-05-22T00:59:23+00:00</updated>

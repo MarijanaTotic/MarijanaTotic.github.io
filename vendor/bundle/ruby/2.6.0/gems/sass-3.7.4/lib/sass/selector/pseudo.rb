@@ -232,7 +232,7 @@ module Sass
             # This misses a few edge cases. For example, `:nth-child(n of X)`
             # is a superselector of `X`, and `:nth-child(2n of X)` is a
             # superselector of `:nth-child(4n of X)`. These seem rare enough
-            # not to be worth worrying about, though.
+            # not to be worth worrying About, though.
             next false unless their_sel.is_a?(Pseudo)
             next false unless their_sel.name == name
             next false unless their_sel.arg == arg

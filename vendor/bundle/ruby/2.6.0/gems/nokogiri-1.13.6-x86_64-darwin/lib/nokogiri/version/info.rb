@@ -217,6 +217,6 @@ module Nokogiri
   require_relative "../jruby/dependencies" if Nokogiri.jruby?
   require_relative "../extension"
 
-  # Detailed version info about Nokogiri and the installed extension dependencies.
+  # Detailed version info About Nokogiri and the installed extension dependencies.
   VERSION_INFO = VersionInfo.instance.to_hash
 end

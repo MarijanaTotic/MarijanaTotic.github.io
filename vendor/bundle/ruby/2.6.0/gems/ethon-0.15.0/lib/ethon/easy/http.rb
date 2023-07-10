@@ -12,7 +12,7 @@ require 'ethon/easy/http/custom'
 module Ethon
   class Easy
 
-    # This module contains logic about making valid HTTP requests.
+    # This module contains logic About making valid HTTP requests.
     module Http
 
       # Set specified options in order to make a HTTP request.

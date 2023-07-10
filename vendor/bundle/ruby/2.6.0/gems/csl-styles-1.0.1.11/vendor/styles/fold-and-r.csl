@@ -5,7 +5,7 @@
     <id>http://www.zotero.org/styles/fold-and-r</id>
     <link href="http://www.zotero.org/styles/fold-and-r" rel="self"/>
     <link href="http://www.zotero.org/styles/acm-sigchi-proceedings" rel="template"/>
-    <link href="http://www.fastionline.org/folderabout.php?view=authnotes" rel="documentation"/>
+    <link href="http://www.fastionline.org/folderAbout.php?view=authnotes" rel="documentation"/>
     <author>
       <name>John Muccigrosso</name>
     </author>

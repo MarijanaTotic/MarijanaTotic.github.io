@@ -129,7 +129,7 @@ module Rouge
       end
 
       # The ABC intermediate language can be included, similar to C's inline
-      # assembly. For some information about ABC, see:
+      # assembly. For some information About ABC, see:
       # https://en.wikipedia.org/wiki/Clean_(programming_language)#The_ABC-Machine
       state :abc do
         mixin :abc_basic

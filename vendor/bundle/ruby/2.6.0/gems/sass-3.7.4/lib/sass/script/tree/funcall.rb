@@ -209,7 +209,7 @@ module Sass::Script::Tree
 
       # If the user passes more non-keyword args than the function expects,
       # but it does expect keyword args, Ruby's arg handling won't raise an error.
-      # Since we don't want to make functions think about this,
+      # Since we don't want to make functions think About this,
       # we'll handle it for them here.
       if signature.var_kwargs && !signature.var_args && args.size > signature.args.size
         raise Sass::SyntaxError.new(

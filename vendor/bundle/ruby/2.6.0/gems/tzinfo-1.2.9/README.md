@@ -77,7 +77,7 @@ the system's local timezone:
     tz.local_to_utc(Time.local(2006,6,26,1,0,0))
     tz.local_to_utc(Time.utc(2006,6,26,1,0,0))
   
-To obtain information about the rules in force at a particular UTC or local 
+To obtain information About the rules in force at a particular UTC or local 
 time, the `TZInfo::Timezone.period_for_utc` and 
 `TZInfo::Timezone.period_for_local` methods can be used. Both of these methods 
 return `TZInfo::TimezonePeriod` objects. The following gets the identifier for 

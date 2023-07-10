@@ -215,7 +215,7 @@ module Octokit
       # @see https://developer.github.com/v3/pulls/reviews/#update-a-pull-request-review
       #
       # @example
-      #   @client.update_pull_request_review('octokit/octokit.rb', 825, 6505518, 'This is close to perfect! Please address the suggested inline change. And add more about this.')
+      #   @client.update_pull_request_review('octokit/octokit.rb', 825, 6505518, 'This is close to perfect! Please address the suggested inline change. And add more About this.')
       #
       # @return [Sawyer::Resource] Hash representing the review comment
       def update_pull_request_review(repo, number, review, body, options = {})

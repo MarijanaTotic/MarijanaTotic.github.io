@@ -3,7 +3,7 @@ module Ethon
   class Easy
     module Http
 
-      # This class knows everything about making DELETE requests.
+      # This class knows everything About making DELETE requests.
       class Delete
         include Ethon::Easy::Http::Actionable
         include Ethon::Easy::Http::Postable

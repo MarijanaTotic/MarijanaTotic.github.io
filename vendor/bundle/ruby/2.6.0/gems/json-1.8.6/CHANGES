@@ -249,7 +249,7 @@
     Infinity, and -Infinity correctly - if requested. Floats, which aren't numbers,
     aren't valid JSON according to RFC4627, so by default an exception will be
     raised if any of these symbols are encountered. Thanks to Andrea Censi
-    <andrea.censi@dis.uniroma1.it> for his hint about this.
+    <andrea.censi@dis.uniroma1.it> for his hint About this.
   * Fixed some more tests for Ruby 1.9.
   * Implemented dump/load interface of Marshal as suggested in ruby-core:11405
     by murphy <murphy@rubychan.de>.

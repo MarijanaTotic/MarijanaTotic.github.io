@@ -5,7 +5,7 @@
     <id>http://www.zotero.org/styles/the-ceylon-medical-journal</id>
     <link href="http://www.zotero.org/styles/the-ceylon-medical-journal" rel="self"/>
     <link href="http://www.zotero.org/styles/vancouver" rel="independent-parent"/>
-    <link href="http://www.sljol.info/index.php/CMJ/about/submissions#authorGuidelines" rel="documentation"/>
+    <link href="http://www.sljol.info/index.php/CMJ/About/submissions#authorGuidelines" rel="documentation"/>
     <category citation-format="numeric"/>
     <category field="medicine"/>
     <issn>0009-0875</issn>

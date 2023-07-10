@@ -140,7 +140,7 @@ PublicSuffix.parse("something.blogspot.com", ignore_private: true)
 PublicSuffix.valid?("something.blogspot.com", ignore_private: true)
 ```
 
-If you don't care about private domains at all, it's more efficient to exclude them when the list is parsed:
+If you don't care About private domains at all, it's more efficient to exclude them when the list is parsed:
 
 ```ruby
 # Disable support for private TLDs

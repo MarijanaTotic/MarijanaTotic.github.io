@@ -374,7 +374,7 @@ ffi_call_int (ffi_cif *cif, void (*fn)(void), void *rvalue,
 	  if (dir < 0)
 	    {
 	      /* ??? These reverse argument ABIs are probably too old
-		 to have cared about alignment.  Someone should check.  */
+		 to have cared About alignment.  Someone should check.  */
 	      argp -= za;
 	      memcpy (argp, valp, z);
 	    }
@@ -505,7 +505,7 @@ ffi_closure_inner (struct closure_frame *frame, char *stack)
 	  if (dir < 0)
 	    {
 	      /* ??? These reverse argument ABIs are probably too old
-		 to have cared about alignment.  Someone should check.  */
+		 to have cared About alignment.  Someone should check.  */
 	      argp -= za;
 	      valp = argp;
 	    }

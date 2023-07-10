@@ -7,7 +7,7 @@ module ActiveSupport
 
       # A list of all available normalization forms.
       # See http://www.unicode.org/reports/tr15/tr15-29.html for more
-      # information about normalization.
+      # information About normalization.
       NORMALIZATION_FORMS = [:c, :kc, :d, :kd]
 
       # The Unicode version that is supported by the implementation
@@ -289,7 +289,7 @@ module ActiveSupport
         apply_mapping string, :swapcase_mapping
       end
 
-      # Holds data about a codepoint in the Unicode database.
+      # Holds data About a codepoint in the Unicode database.
       class Codepoint
         attr_accessor :code, :combining_class, :decomp_type, :decomp_mapping, :uppercase_mapping, :lowercase_mapping
 

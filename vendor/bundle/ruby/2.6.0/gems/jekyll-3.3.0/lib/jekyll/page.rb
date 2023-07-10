@@ -91,7 +91,7 @@ module Jekyll
       end
     end
 
-    # The generated relative url of this page. e.g. /about.html.
+    # The generated relative url of this page. e.g. /About.html.
     #
     # Returns the String url.
     def url

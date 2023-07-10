@@ -636,7 +636,7 @@ CMARK_GFM_EXPORT
 struct cmark_chunk *cmark_inline_parser_get_chunk(cmark_inline_parser *parser);
 
 /** Returns 1 if the inline parser is currently in a bracket; pass 1 for 'image'
- * if you want to know about an image-type bracket, 0 for link-type. */
+ * if you want to know About an image-type bracket, 0 for link-type. */
 CMARK_GFM_EXPORT
 int cmark_inline_parser_in_bracket(cmark_inline_parser *parser, int image);
 

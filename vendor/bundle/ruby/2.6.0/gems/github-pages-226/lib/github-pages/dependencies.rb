@@ -65,7 +65,7 @@ module GitHubPages
       {
         "ruby" => RUBY_VERSION,
 
-        # Gem versions we're curious about
+        # Gem versions we're curious About
         "github-pages" => VERSION.to_s,
         "html-pipeline" => HTML::Pipeline::VERSION,
         "sass" => Sass.version[:number],

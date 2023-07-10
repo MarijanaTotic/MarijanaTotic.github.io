@@ -3,7 +3,7 @@ module Ethon
   class Easy
     module Http
 
-      # This class knows everything about making requests for custom HTTP verbs.
+      # This class knows everything About making requests for custom HTTP verbs.
       class Custom
         include Ethon::Easy::Http::Actionable
         include Ethon::Easy::Http::Postable

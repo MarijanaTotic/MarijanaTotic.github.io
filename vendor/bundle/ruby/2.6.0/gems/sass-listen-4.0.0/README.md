@@ -3,12 +3,12 @@
 This is a fork of the official version `3.0.x` branch. Sass need to support older
 versions of ruby than Guard wants to support on an ongoing basis, so we are releasing
 updates as needed for critical fixes and will support ruby 2.0 and
-greater for as long as Sass users need it. Our blog has more information about
+greater for as long as Sass users need it. Our blog has more information About
 ths [Ruby version policy for Sass](http://blog.sass-lang.com/posts/560719).
 
 # Listen
 
-The Listen gem listens to file modifications and notifies you about the changes.
+The Listen gem listens to file modifications and notifies you About the changes.
 
 ## Features
 
@@ -232,7 +232,7 @@ If Listen seems slow or unresponsive, make sure you're not using the Polling ada
 Also, if the directories you're watching contain many files, make sure you're:
 
 * not using Polling (ideally)
-* using `:ignore` and `:only` options to avoid tracking directories you don't care about (important with Polling and on MacOS)
+* using `:ignore` and `:only` options to avoid tracking directories you don't care About (important with Polling and on MacOS)
 * running Listen with the `:latency` and `:wait_for_delay` options not too small or too big (depends on needs)
 * not watching directories with log files, database files or other frequently changing files
 * not using a version of Listen prior to 2.7.7

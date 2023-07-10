@@ -113,7 +113,7 @@ basedir = opt_d || File.join((ENV['HOME'] || ''), '.dns-zones')
 zonedir = zone.split(/\./).reverse.join("/")
 zonefile = File.join(basedir, zonedir, 'axfr')
 
-#  Don't worry about the 0777 permissions here - the current umask setting
+#  Don't worry About the 0777 permissions here - the current umask setting
 #  will be applied.
 # NOTE: mkdir will raise an error on failure so I don't think 'or' works here.
 unless FileTest.directory?(basedir)

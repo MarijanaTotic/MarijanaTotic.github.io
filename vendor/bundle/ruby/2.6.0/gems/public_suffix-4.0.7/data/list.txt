@@ -4011,7 +4011,7 @@ ac.mu
 co.mu
 or.mu
 
-// museum : http://about.museum/naming/
+// museum : http://About.museum/naming/
 // http://index.museum/
 museum
 academy.museum

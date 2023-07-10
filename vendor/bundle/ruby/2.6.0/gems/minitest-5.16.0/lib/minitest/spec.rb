@@ -71,7 +71,7 @@ module Kernel
   # but do note that several items there are debatable or specific to
   # rspec.
   #
-  # For more information about expectations, see Minitest::Expectations.
+  # For more information About expectations, see Minitest::Expectations.
 
   def describe desc, *additional_desc, &block # :doc:
     stack = Minitest::Spec.describe_stack

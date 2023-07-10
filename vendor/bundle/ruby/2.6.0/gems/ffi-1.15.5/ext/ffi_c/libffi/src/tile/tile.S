@@ -33,7 +33,7 @@
 
 /* Number of bytes in stack linkage area for backtracing.
 
-   A note about the ABI: on entry to a procedure, sp points to a stack
+   A note About the ABI: on entry to a procedure, sp points to a stack
    slot where it must spill the return address if it's not a leaf.
    REG_SIZE bytes beyond that is a slot owned by the caller which
    contains the sp value that the caller had when it was originally

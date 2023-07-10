@@ -83,7 +83,7 @@ describe Minitest::Spec do
     end
   end
 
-  it "needs to be sensible about must_include order" do
+  it "needs to be sensible About must_include order" do
     @assertion_count += 3 # must_include is 2 assertions
 
     assert_success _([1, 2, 3]).must_include(2)
@@ -97,7 +97,7 @@ describe Minitest::Spec do
     end
   end
 
-  it "needs to be sensible about wont_include order" do
+  it "needs to be sensible About wont_include order" do
     @assertion_count += 3 # wont_include is 2 assertions
 
     assert_success _([1, 2, 3]).wont_include(5)

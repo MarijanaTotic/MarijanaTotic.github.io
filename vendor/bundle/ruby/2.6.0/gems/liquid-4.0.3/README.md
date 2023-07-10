@@ -80,7 +80,7 @@ It is also recommended that you use it in the template editors of existing apps 
 
 By default, the renderer doesn't raise or in any other way notify you if some variables or filters are missing, i.e. not passed to the `render` method.
 You can improve this situation by passing `strict_variables: true` and/or `strict_filters: true` options to the `render` method.
-When one of these options is set to true, all errors about undefined variables and undefined filters will be stored in `errors` array of a `Liquid::Template` instance.
+When one of these options is set to true, all errors About undefined variables and undefined filters will be stored in `errors` array of a `Liquid::Template` instance.
 Here are some examples:
 
 ```ruby

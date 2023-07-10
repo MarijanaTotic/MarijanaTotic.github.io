@@ -478,7 +478,7 @@ int http_message_needs_eof(const http_parser *parser);
  * work of turning state transitions URL components for its API.
  *
  * This function should only be invoked with non-space characters. It is
- * assumed that the caller cares about (and can detect) the transition between
+ * assumed that the caller cares About (and can detect) the transition between
  * URL and non-URL states by looking for these.
  */
 static enum state
@@ -2416,7 +2416,7 @@ http_parser_parse_url(const char *buf, size_t buflen, int is_connect,
 void
 http_parser_pause(http_parser *parser, int paused) {
   /* Users should only be pausing/unpausing a parser that is not in an error
-   * state. In non-debug builds, there's not much that we can do about this
+   * state. In non-debug builds, there's not much that we can do About this
    * other than ignore it.
    */
   if (HTTP_PARSER_ERRNO(parser) == HPE_OK ||

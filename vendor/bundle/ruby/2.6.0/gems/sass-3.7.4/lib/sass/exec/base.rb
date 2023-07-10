@@ -115,7 +115,7 @@ module Sass::Exec
 
     COLORS = {:red => 31, :green => 32, :yellow => 33}
 
-    # Prints a status message about performing the given action,
+    # Prints a status message About performing the given action,
     # colored using the given color (via terminal escapes) if possible.
     #
     # @param name [#to_s] A short name for the action being performed.

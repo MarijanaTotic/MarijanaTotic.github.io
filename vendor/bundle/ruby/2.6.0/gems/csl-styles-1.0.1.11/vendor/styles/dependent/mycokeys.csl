@@ -6,7 +6,7 @@
     <id>http://www.zotero.org/styles/mycokeys</id>
     <link href="http://www.zotero.org/styles/mycokeys" rel="self"/>
     <link href="http://www.zotero.org/styles/pensoft-journals" rel="independent-parent"/>
-    <link href="https://mycokeys.pensoft.net/about#CitationsandReferences" rel="documentation"/>
+    <link href="https://mycokeys.pensoft.net/About#CitationsandReferences" rel="documentation"/>
     <category citation-format="author-date"/>
     <category field="biology"/>
     <issn>1314-4057</issn>

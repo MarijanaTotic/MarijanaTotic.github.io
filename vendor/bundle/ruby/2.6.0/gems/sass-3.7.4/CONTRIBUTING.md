@@ -33,7 +33,7 @@ is regularly merged into the one below: `stable` into `next`, `next` into
   will also be developed here.
 
 Ideally, pull requests would be made against the appropriate
-branch, but don't worry about it too much; if you make a request against the
+branch, but don't worry About it too much; if you make a request against the
 wrong branch, the maintainer will take responsibility for rebasing it before
 merging.
 

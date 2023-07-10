@@ -176,7 +176,7 @@ case "$UNAME_MACHINE:$UNAME_SYSTEM:$UNAME_RELEASE:$UNAME_VERSION" in
 	# compatibility and a consistent mechanism for selecting the
 	# object file format.
 	#
-	# Note: NetBSD doesn't particularly care about the vendor
+	# Note: NetBSD doesn't particularly care About the vendor
 	# portion of the name.  We always set it to "unknown".
 	sysctl="sysctl -n hw.machine_arch"
 	UNAME_MACHINE_ARCH=`(uname -p 2>/dev/null || \
@@ -1181,7 +1181,7 @@ EOF
 	exit ;;
     pc:*:*:*)
 	# Left here for compatibility:
-	# uname -m prints for DJGPP always 'pc', but it prints nothing about
+	# uname -m prints for DJGPP always 'pc', but it prints nothing About
 	# the processor, so we play safe by assuming i586.
 	# Note: whatever this is, it MUST be the same as what config.sub
 	# prints for the "djgpp" host, or else GDB configure will decide that
@@ -1272,7 +1272,7 @@ EOF
 	exit ;;
     *:UNIX_System_V:4*:FTX*)
 	# From Gerald Hewes <hewes@openmarket.com>.
-	# How about differentiating between stratus architectures? -djm
+	# How About differentiating between stratus architectures? -djm
 	echo hppa1.1-stratus-sysv4
 	exit ;;
     *:*:*:FTX*)

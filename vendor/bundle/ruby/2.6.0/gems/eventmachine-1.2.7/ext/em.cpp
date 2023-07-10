@@ -2028,7 +2028,7 @@ const uintptr_t EventMachine_t::Socketpair (char * const * cmd_strings)
 	// from here, all early returns must close the pair of sockets.
 
 	// Set the parent side of the socketpair nonblocking.
-	// We don't care about the child side, and most child processes will expect their
+	// We don't care About the child side, and most child processes will expect their
 	// stdout to be blocking. Thanks to Duane Johnson and Bill Kelly for pointing this out.
 	// Obviously DON'T set CLOEXEC.
 	if (!SetSocketNonblocking (sv[0])) {

@@ -131,7 +131,7 @@ module TZInfo
     end
     
     # Returns a frozen array of all the timezones for the for the country as
-    # CountryTimezone instances (containing extra information about each zone). 
+    # CountryTimezone instances (containing extra information About each zone). 
     # These are in an order that
     #
     # 1. makes some geographical sense, and

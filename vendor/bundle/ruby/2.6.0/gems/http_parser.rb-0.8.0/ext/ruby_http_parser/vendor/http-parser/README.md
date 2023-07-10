@@ -7,7 +7,7 @@ This is a parser for HTTP messages written in C. It parses both requests and
 responses. The parser is designed to be used in performance HTTP
 applications. It does not make any syscalls nor allocations, it does not
 buffer data, it can be interrupted at anytime. Depending on your
-architecture, it only requires about 40 bytes of data per message
+architecture, it only requires About 40 bytes of data per message
 stream (in a web server that is per connection).
 
 Features:
@@ -74,7 +74,7 @@ if (parser->upgrade) {
 
 `http_parser` needs to know where the end of the stream is. For example, sometimes
 servers send responses without Content-Length and expect the client to
-consume input (for the body) until EOF. To tell `http_parser` about EOF, give
+consume input (for the body) until EOF. To tell `http_parser` About EOF, give
 `0` as the fourth parameter to `http_parser_execute()`. Callbacks and errors
 can still be encountered during an EOF, so one must still be prepared
 to receive them.

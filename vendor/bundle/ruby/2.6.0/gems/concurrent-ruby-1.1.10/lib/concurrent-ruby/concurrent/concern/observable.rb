@@ -17,7 +17,7 @@ module Concurrent
     # In a single threaded environment the whole pattern is very easy: the
     # `subject` can use a simple data structure to manage all its subscribed
     # `observer`s and every `observer` can react directly to every event without
-    # caring about synchronization.
+    # caring About synchronization.
     #
     # In a multi threaded environment things are more complex. The `subject` must
     # synchronize the access to its data structure and to do so currently we're
@@ -25,7 +25,7 @@ module Concurrent
     # and {Concurrent::Concern::CopyOnNotifyObserverSet}.
     #
     # When implementing and `observer` there's a very important rule to remember:
-    # **there are no guarantees about the thread that will execute the callback**
+    # **there are no guarantees About the thread that will execute the callback**
     #
     # Let's take this example
     # ```

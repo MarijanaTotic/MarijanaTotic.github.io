@@ -23,7 +23,7 @@ module Typhoeus
     attr_accessor :request
 
     # The provided options, which contain all the
-    # informations about the request.
+    # informations About the request.
     #
     # @return [ Hash ]
     attr_accessor :options

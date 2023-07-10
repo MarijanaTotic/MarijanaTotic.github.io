@@ -79,7 +79,7 @@ Compilers for high level languages generate code that follow certain
 conventions.  These conventions are necessary, in part, for separate
 compilation to work.  One such convention is the @dfn{calling
 convention}.  The calling convention is a set of assumptions made by
-the compiler about where function arguments will be found on entry to
+the compiler About where function arguments will be found on entry to
 a function.  A calling convention also specifies where the return
 value for a function is found.  The calling convention is also
 sometimes called the @dfn{ABI} or @dfn{Application Binary Interface}.
@@ -89,7 +89,7 @@ sometimes called the @dfn{ABI} or @dfn{Application Binary Interface}.
 
 Some programs may not know at the time of compilation what arguments
 are to be passed to a function.  For instance, an interpreter may be
-told at run-time about the number and types of arguments used to call
+told at run-time About the number and types of arguments used to call
 a given function.  @samp{Libffi} can be used in such programs to
 provide a bridge from the interpreter program to compiled code.
 
@@ -585,7 +585,7 @@ underlying integral type, exactly which type will be used cannot be
 determined by @code{libffi} -- it may depend on the values in the
 enumeration or on compiler flags such as @option{-fshort-enums}.
 @xref{Structures unions enumerations and bit-fields implementation, , , gcc},
-for more information about how GCC handles enumerations.
+for more information About how GCC handles enumerations.
 
 @node Type Example
 @subsection Type Example

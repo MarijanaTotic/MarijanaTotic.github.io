@@ -6,9 +6,9 @@ module Octokit
     #
     # @see https://developer.github.com/v3/git/
     module Objects
-      # Get a single tree, fetching information about its root-level objects
+      # Get a single tree, fetching information About its root-level objects
       #
-      # Pass <tt>:recursive => true</tt> in <tt>options</tt> to fetch information about all of the tree's objects, including those in subdirectories.
+      # Pass <tt>:recursive => true</tt> in <tt>options</tt> to fetch information About all of the tree's objects, including those in subdirectories.
       #
       # @param repo [Integer, String, Hash, Repository] A GitHub repository
       # @param tree_sha [String] The SHA of the tree to fetch

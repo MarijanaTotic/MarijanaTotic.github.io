@@ -1,7 +1,7 @@
 module Zip
   # ZipFile is modeled after java.util.zip.ZipFile from the Java SDK.
   # The most important methods are those inherited from
-  # ZipCentralDirectory for accessing information about the entries in
+  # ZipCentralDirectory for accessing information About the entries in
   # the archive and methods such as get_input_stream and
   # get_output_stream for reading from and writing entries to the
   # archive. The class includes a few convenience methods such as

@@ -85,7 +85,7 @@ typedef enum ffi_abi {
 # if defined (POWERPC64)
   /* This bit, always set in new code, must not be set in any of the
      old FFI_COMPAT values that might be used for 64-bit linux.  We
-     only need worry about FFI_COMPAT_LINUX64, but to be safe avoid
+     only need worry About FFI_COMPAT_LINUX64, but to be safe avoid
      all old values.  */
   FFI_LINUX = 8,
   /* This and following bits can reuse FFI_COMPAT values.  */

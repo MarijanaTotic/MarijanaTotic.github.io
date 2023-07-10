@@ -12,13 +12,13 @@ module Rouge
       filenames '*.ps1', '*.psm1', '*.psd1', '*.psrc', '*.pssc'
       mimetypes 'text/x-powershell'
 
-      # https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_functions_cmdletbindingattribute?view=powershell-6
+      # https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/About/About_functions_cmdletbindingattribute?view=powershell-6
       ATTRIBUTES = %w(
         ConfirmImpact DefaultParameterSetName HelpURI PositionalBinding
         SupportsPaging SupportsShouldProcess
       )
 
-      # https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_automatic_variables?view=powershell-6
+      # https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/About/About_automatic_variables?view=powershell-6
       AUTO_VARS = %w(
         \$\$ \$\? \$\^ \$_
         \$args \$ConsoleFileName \$Error \$Event \$EventArgs \$EventSubscriber
@@ -32,7 +32,7 @@ module Rouge
         \$SENDER \$ShellId \$StackTrace \$switch \$this \$true
       ).join('|')
 
-      # https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_reserved_words?view=powershell-6
+      # https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/About/About_reserved_words?view=powershell-6
       KEYWORDS = %w(
         assembly exit process base filter public begin finally return break for
         sequence catch foreach static class from switch command function throw

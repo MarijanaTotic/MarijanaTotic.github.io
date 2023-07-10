@@ -699,7 +699,7 @@ module Dnsruby
     #  Returns true if the RRSet verified, false otherwise.
     def verify_rrset(rrset, keys = nil)
       #       print "Verify_rrset #{rrset.name}, #{rrset.type}\n"
-#      print "ABOUT TO VERIFY WITH #{keys == nil ? '0' : keys.length} keys\n"
+#      print "About TO VERIFY WITH #{keys == nil ? '0' : keys.length} keys\n"
 #      if (keys != nil)
 #        if (keys.length > 0)
 #          print "KEY TAG : #{keys[0].key_tag}\n"
@@ -770,7 +770,7 @@ module Dnsruby
         rec.ttl = sigrec.original_ttl
         data = MessageEncoder.new { |msg|
           msg.put_rr(rec, true)
-        }.to_s # @TODO@ worry about wildcards here?
+        }.to_s # @TODO@ worry About wildcards here?
         rec.ttl = old_ttl
         if (RUBY_VERSION >= "1.9")
           data.force_encoding("ASCII-8BIT")

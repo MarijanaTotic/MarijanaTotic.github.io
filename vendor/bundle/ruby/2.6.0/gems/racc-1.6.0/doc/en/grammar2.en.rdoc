@@ -9,7 +9,7 @@ block. The 'user code' block MUST be placed after the 'class' block.
 
 == Comments
 
-You can insert comments about all places. Two styles of comments can be used, Ruby style '#.....' and C style '/\*......*\/'.
+You can insert comments About all places. Two styles of comments can be used, Ruby style '#.....' and C style '/\*......*\/'.
 
 == Class Block
 

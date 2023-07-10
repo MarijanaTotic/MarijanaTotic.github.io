@@ -285,10 +285,10 @@ ok:
      *  since we clearly have a ruby object which references the underlying
      *  memory, we can't let the C struct get freed. let's pickle the original
      *  reparentee by rooting it; and then we'll reparent a duplicate of the
-     *  node that we don't care about preserving.
+     *  node that we don't care About preserving.
      *
      *  alternatively, if the reparentee is from a different document than the
-     *  pivot node, libxml2 is going to get confused about which document's
+     *  pivot node, libxml2 is going to get confused About which document's
      *  "dictionary" the node's strings belong to (this is an otherwise
      *  uninteresting libxml2 implementation detail). as a result, we cannot
      *  reparent the actual reparentee, so we reparent a duplicate.

@@ -3,7 +3,7 @@
 module Nokogiri
   module XML
     ###
-    # This class provides information about XML SyntaxErrors.  These
+    # This class provides information About XML SyntaxErrors.  These
     # exceptions are typically stored on Nokogiri::XML::Document#errors.
     class SyntaxError < ::Nokogiri::SyntaxError
       attr_reader :domain

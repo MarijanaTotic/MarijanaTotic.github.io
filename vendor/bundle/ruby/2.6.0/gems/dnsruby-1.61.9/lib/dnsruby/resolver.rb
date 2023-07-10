@@ -1029,7 +1029,7 @@ module Dnsruby
     #
     def handle_queue_event(queue, id) # :nodoc: all
       #  Time to process a new queue event.
-      #  If we get a callback for an ID we don't know about, don't worry -
+      #  If we get a callback for an ID we don't know About, don't worry -
       #  just ignore it. It may be for a query we've already completed.
       #
       #  So, get the next response from the queue (presuming there is one!)

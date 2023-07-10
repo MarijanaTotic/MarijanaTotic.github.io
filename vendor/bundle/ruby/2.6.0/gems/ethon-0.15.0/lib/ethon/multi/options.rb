@@ -2,7 +2,7 @@
 module Ethon
   class Multi
 
-    # This module contains the logic and knowledge about the
+    # This module contains the logic and knowledge About the
     # available options on multi.
     module Options
 

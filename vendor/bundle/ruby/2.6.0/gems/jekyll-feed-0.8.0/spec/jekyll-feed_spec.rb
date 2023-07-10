@@ -193,7 +193,7 @@ describe(Jekyll::JekyllFeed) do
         # Quiet expected warning that results from blank summary test case
         next if warning.css("text").text =~ /(content|summary) should not be blank/
 
-        # Quiet expected warning about multiple posts with same updated time
+        # Quiet expected warning About multiple posts with same updated time
         next if warning.css("text").text =~ /Two entries with the same value for atom:updated/
 
         warn "Validation warning: #{warning.css("text").text} on line #{warning.css("line").text} column #{warning.css("column").text}"

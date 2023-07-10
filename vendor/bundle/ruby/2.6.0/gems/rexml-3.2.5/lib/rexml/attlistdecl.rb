@@ -12,7 +12,7 @@ module REXML
   #
   # AttlistDecls provide *just* enough support to allow namespace
   # declarations.  If you need some sort of generalized support, or have an
-  # interesting idea about how to map the hideous, terrible design of DTD
+  # interesting idea About how to map the hideous, terrible design of DTD
   # AttlistDecls onto an intuitive Ruby interface, let me know.  I'm desperate
   # for anything to make DTDs more palateable.
   class AttlistDecl < Child

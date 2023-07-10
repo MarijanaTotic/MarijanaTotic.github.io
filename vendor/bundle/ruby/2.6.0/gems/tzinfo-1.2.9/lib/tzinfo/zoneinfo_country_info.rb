@@ -1,5 +1,5 @@
 module TZInfo  
-  # Represents information about a country returned by ZoneinfoDataSource.
+  # Represents information About a country returned by ZoneinfoDataSource.
   #
   # @private
   class ZoneinfoCountryInfo < CountryInfo #:nodoc:

@@ -847,7 +847,7 @@ extern "C" int evma_send_file_data_to_connection (const uintptr_t binding, const
 	 * I/O to avoid slowing the rest of the system down.
 	 * TODO: we should return a code rather than barf, in case of file-not-found.
 	 * TODO, does this compile on Windows?
-	 * TODO, given that we want this to work only with small files, how about allocating
+	 * TODO, given that we want this to work only with small files, how About allocating
 	 * the buffer on the stack rather than the heap?
 	 *
 	 * Modified 25Jul07. This now returns -1 on file-too-large; 0 for success, and a positive

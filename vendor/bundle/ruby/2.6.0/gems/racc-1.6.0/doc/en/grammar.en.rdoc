@@ -9,7 +9,7 @@ block. The 'user code' block MUST be after the 'class' block.
 
 == Comment
 
-Comments can be added about everywhere.  Two comment styles are
+Comments can be added About everywhere.  Two comment styles are
 supported: Ruby style (`# ...`) and C style (`/* ... */`).
 
 == Class Block

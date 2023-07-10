@@ -5,7 +5,7 @@
     <id>http://www.zotero.org/styles/gms-medizin-bibliothek-information</id>
     <link href="http://www.zotero.org/styles/gms-medizin-bibliothek-information" rel="self"/>
     <link href="http://www.zotero.org/styles/vancouver" rel="independent-parent"/>
-    <link href="http://www.egms.de/static/de/journals/mbi/about.htm" rel="documentation"/>
+    <link href="http://www.egms.de/static/de/journals/mbi/About.htm" rel="documentation"/>
     <category citation-format="numeric"/>
     <category field="medicine"/>
     <issn>1865-066X</issn>

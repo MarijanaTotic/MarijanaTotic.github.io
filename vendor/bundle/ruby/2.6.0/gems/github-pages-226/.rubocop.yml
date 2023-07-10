@@ -1,8 +1,8 @@
 # Ruby linting configuration.
 # See https://github.com/styleguide/ruby for the Ruby style guide
 
-# We only worry about two kinds of issues: 'error' and anything less than that.
-# Error is not about severity, but about taste. Simple style choices that
+# We only worry About two kinds of issues: 'error' and anything less than that.
+# Error is not About severity, but About taste. Simple style choices that
 # never have a great excuse to be broken, such as 1.9 JSON-like hash syntax,
 # are errors. Choices that tend to have good exceptions in practice, such as
 # line length, are warnings.

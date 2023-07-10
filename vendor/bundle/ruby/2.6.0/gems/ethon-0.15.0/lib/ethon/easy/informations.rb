@@ -32,7 +32,7 @@ module Ethon
         :appconnect_time => :double,
 
         # Return the time, in seconds, it took from the start
-        # until the file transfer was just about to begin. This
+        # until the file transfer was just About to begin. This
         # includes all pre-transfer commands and negotiations
         # that are specific to the particular protocol(s) involved.
         # It does not involve the sending of the protocol-

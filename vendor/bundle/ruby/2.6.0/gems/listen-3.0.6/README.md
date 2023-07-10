@@ -4,7 +4,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/listen.png)](http://badge.fury.io/rb/listen) [![Build Status](https://travis-ci.org/guard/listen.png)](https://travis-ci.org/guard/listen) [![Dependency Status](https://gemnasium.com/guard/listen.png)](https://gemnasium.com/guard/listen) [![Code Climate](https://codeclimate.com/github/guard/listen.png)](https://codeclimate.com/github/guard/listen) [![Coverage Status](https://coveralls.io/repos/guard/listen/badge.png?branch=master)](https://coveralls.io/r/guard/listen)
 
-The Listen gem listens to file modifications and notifies you about the changes.
+The Listen gem listens to file modifications and notifies you About the changes.
 
 ## Features
 
@@ -228,7 +228,7 @@ If Listen seems slow or unresponsive, make sure you're not using the Polling ada
 Also, if the directories you're watching contain many files, make sure you're:
 
 * not using Polling (ideally)
-* using `:ignore` and `:only` options to avoid tracking directories you don't care about (important with Polling and on MacOS)
+* using `:ignore` and `:only` options to avoid tracking directories you don't care About (important with Polling and on MacOS)
 * running Listen with the `:latency` and `:wait_for_delay` options not too small or too big (depends on needs)
 * not watching directories with log files, database files or other frequently changing files
 * not using a version of Listen prior to 2.7.7

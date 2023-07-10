@@ -10,7 +10,7 @@ import static http_parser.lolevel.HTTPParser.State.*;
 
 public class  HTTPParser {
 	/* lots of unsigned chars here, not sure what
-	   to about them, `bytes` in java suck...  */
+	   to About them, `bytes` in java suck...  */
 
 	ParserType type;
 	State state;
@@ -99,7 +99,7 @@ public class  HTTPParser {
    * work of turning state transitions URL components for its API.
    *
    * This function should only be invoked with non-space characters. It is
-   * assumed that the caller cares about (and can detect) the transition between
+   * assumed that the caller cares About (and can detect) the transition between
    * URL and non-URL states by looking for these.
    */
   public State parse_url_char(byte ch) {
@@ -268,7 +268,7 @@ public class  HTTPParser {
                       // and returning the amount of processed bytes.
 
 
-    // In case the headers don't provide information about the content
+    // In case the headers don't provide information About the content
     // length, `execute` needs to be called with an empty buffer to
     // indicate that all the data has been send be the client/server,
     // else there is no way of knowing the message is complete.
@@ -1487,7 +1487,7 @@ return error(settings, "unhandled state", data);
 
 
     /* Reaching this point assumes that we only received part of a
-     * message, inform the callbacks about the progress made so far*/
+     * message, inform the callbacks About the progress made so far*/
 
 	  settings.call_on_header_field(this, data, header_field_mark, p-header_field_mark);
     settings.call_on_header_value(this, data, header_value_mark, p-header_value_mark);

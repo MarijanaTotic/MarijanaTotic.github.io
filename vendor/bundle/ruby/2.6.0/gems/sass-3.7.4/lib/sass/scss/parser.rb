@@ -899,7 +899,7 @@ module Sass
 
       def declaration_value_token(top_level)
         # This comes, more or less, from the [token consumption algorithm][].
-        # However, since we don't have to worry about the token semantics, we
+        # However, since we don't have to worry About the token semantics, we
         # just consume everything until we come across a token with special
         # semantics.
         #
@@ -919,7 +919,7 @@ module Sass
         return result if result
 
         # Fold together multiple characters of whitespace that don't include
-        # newlines. The value only cares about the tokenization, so this is safe
+        # newlines. The value only cares About the tokenization, so this is safe
         # as long as we don't delete whitespace entirely. It's important that we
         # fold here rather than post-processing, since we aren't allowed to fold
         # whitespace within strings and we lose that context later on.

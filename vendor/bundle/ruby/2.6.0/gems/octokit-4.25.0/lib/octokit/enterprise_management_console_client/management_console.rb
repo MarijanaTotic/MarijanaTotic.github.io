@@ -45,7 +45,7 @@ module Octokit
         @last_response = conn.post('/setup/api/upgrade', params)
       end
 
-      # Get information about the Enterprise installation
+      # Get information About the Enterprise installation
       #
       # @return [Sawyer::Resource] The installation information
       def config_status
@@ -53,7 +53,7 @@ module Octokit
       end
       alias config_check config_status
 
-      # Get information about the Enterprise installation
+      # Get information About the Enterprise installation
       #
       # @return [Sawyer::Resource] The settings
       def settings
@@ -72,7 +72,7 @@ module Octokit
         put '/setup/api/settings', queries
       end
 
-      # Get information about the Enterprise maintenance status
+      # Get information About the Enterprise maintenance status
       #
       # @return [Sawyer::Resource] The maintenance status
       def maintenance_status

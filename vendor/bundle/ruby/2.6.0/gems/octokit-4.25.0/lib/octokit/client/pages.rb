@@ -10,7 +10,7 @@ module Octokit
       #
       # @param repo [Integer, String, Repository, Hash] A GitHub repository
       # @return Sawyer::Resource A GitHub Pages resource
-      # @see https://developer.github.com/v3/repos/pages/#get-information-about-a-pages-site
+      # @see https://developer.github.com/v3/repos/pages/#get-information-About-a-pages-site
       def pages(repo, options = {})
         get "#{Repository.path repo}/pages", options
       end
@@ -41,7 +41,7 @@ module Octokit
       # List the latest Pages build information for a repository
       #
       # @param repo [Integer, String, Repository, Hash] A GitHub repository
-      # @return Sawyer::Resource A GitHub Pages resource about a build
+      # @return Sawyer::Resource A GitHub Pages resource About a build
       # @see https://developer.github.com/v3/repos/pages/#list-latest-pages-build
       def latest_pages_build(repo, options = {})
         get "#{Repository.path repo}/pages/builds/latest", options

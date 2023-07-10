@@ -78,8 +78,8 @@ class Section < Array
 
   def remove_rrset(name, type)
     #  Remove all RRs with the name and type from the section.
-    #  Need to worry about header counts here - can we get Message to
-    #  update the counts itself, rather than the section worrying about it?
+    #  Need to worry About header counts here - can we get Message to
+    #  update the counts itself, rather than the section worrying About it?
     rrs_to_delete = []
     each do |rr|
       next if rr.rr_type == Types::OPT

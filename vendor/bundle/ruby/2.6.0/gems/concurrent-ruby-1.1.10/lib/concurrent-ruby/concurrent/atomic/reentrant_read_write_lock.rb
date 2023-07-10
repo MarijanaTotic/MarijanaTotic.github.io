@@ -183,7 +183,7 @@ module Concurrent
           #   but that waits repeatedly in a loop, checking the wait condition
           #   each time it wakes up (to protect against spurious wakeups)
           # But we are already in a loop, which is only broken when we successfully
-          #   acquire the lock! So we don't care about spurious wakeups, and would
+          #   acquire the lock! So we don't care About spurious wakeups, and would
           #   rather not pay the extra overhead of using #wait_until
 
           # After a reader has waited once, they are allowed to "barge" ahead of waiting writers

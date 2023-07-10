@@ -80,7 +80,7 @@ module ActiveSupport
           # fully JSON-ready object.
           #
           # This allows developers to implement #as_json without having to
-          # worry about what base types of objects they are allowed to return
+          # worry About what base types of objects they are allowed to return
           # or having to remember to call #as_json recursively.
           #
           # Note: the +options+ hash passed to +object.to_json+ is only passed
