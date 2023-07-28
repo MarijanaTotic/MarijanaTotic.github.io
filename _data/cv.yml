@@ -1,94 +1,81 @@
-- title: Persönliche Daten 
+- title: General Information
   type: map
   contents:
-    - name: Name
-      value: Marijana Totić
-    - name: Geburtstag
-      value: 20th Juli 1996
-    - name: Sprachen
-      value: Deutsch, Kroatisch, Englisch, Spanisch, Französisch
+    - name: Full Name
+      value: Tatiana Merzhevich
+    - name: Date of Birth
+      value: July, 19 1995
+    - name: Languages
+      value: Russian, English, German
 
-- title: Bildung
+
+- title: Work Experience
   type: time_table
   contents:
-    - title: PhD
-      institution: Pädagogische Hochschule Schwäbisch Gmünd
-      year: 2021--
+    - title: Computational Linguist
+      institution: mine&make GmbH
+      year: 10/2022 – Present
       description:
-        - Germanistik und Interkulturalität / Multilingualität
-        
-    - title: Mastertitel
-    institution:  Pädagogische Hochschule Schwäbisch Gmünd
-      year: 2021
-     
-    - title: Bachelor
-    institution:  Eberhard Karls Universität Tübingen
-      year: 2018
+        - Validation and deployment NLP modules (NER, RE, coreference resolution)
+        - Linguistic research
+        - Frontend development
 
-- title: 
+    - title: Research Assistant
+      institution: Universität Tübingen
+      year: 03/2021 – 09/2022
+      description:
+        - Data analysis (Pandas), Data visualisation (R, Tableau)
+        - Development of web applications (Shiny), Text processing (Python)
+        - Treebanks development, Linguistic data collection
+
+
+    - title: Linguist
+      institution: Huawei
+      year: 10/2019 – 02/2021
+      description: 
+        - Corpora design for a multilingual voice assistant
+        - Text annotation and normalization
+        - Data evaluation with MOS and unit tests
+
+
+
+- title: Education
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: MA, Computational Linguistics
+      institution: University of Tübingen
+      year: 2022
+    
+    - title: BA, General Linguistics
+      institution: Saint Petersburg State University of Aerospace Instrumentation
+      year: 2019
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
 - title: Open Source Projects
   type: time_table
+  type: nested_list
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://huggingface.co/tatiana-merz/turkic-cyrillic-classifier">Cyrillic Turkic language classifier</a>
+      year: 2023
+      description: Transformers Sequence Classifier for Bashkir, Chuvash, Sakha, Tatar, Kyrgyz, Kazakh, Tuvinian, Karachay-Balkar, Russian
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - title: <a href="https://github.com/UniversalDependencies/UD_Yakut-YKTDT">Universal Dependencies Yakut Treebank</a>
+      year: 2022
+      description: The collection of annotated sentences for Yakut. The work is in progress
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: NLP
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Building tools and resources for low-resource languages
+        - Audio analysis
+        - Healthcare NLP
+
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Punch needle art, Travelling, Gardening
