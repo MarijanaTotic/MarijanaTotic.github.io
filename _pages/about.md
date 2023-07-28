@@ -15,4 +15,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Ich bin Doktorandin an der [Pädagogischen Hochschule Schwäbisch Gmünd](ph-gmuend.de). Die Schwerpunkte meiner Forschung sind Mehrsprachigkeit, Spracheinstellungen, Sprache und Identität sowie Familiensprachpolitik.
+Ich bin Doktorandin an der [Pädagogischen Hochschule Schwäbisch Gmünd](https://www.ph-gmuend.de). Die Schwerpunkte meiner Forschung sind Mehrsprachigkeit, Spracheinstellungen, Sprache und Identität sowie Familiensprachpolitik.
