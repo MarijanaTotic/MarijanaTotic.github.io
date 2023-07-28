@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Mariana Totić
     - name: Date of Birth
-      value: 14th March 1879
+      value: 20th July 1996
     - name: Languages
-      value: English, German
+      value: German, Croatian, English, Spanish, French
 
 - title: Education
   type: time_table
