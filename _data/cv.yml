@@ -21,11 +21,11 @@
     institution:  Pädagogische Hochschule Schwäbisch Gmünd
       year: 2021
      
-
+    - title: Bachelor
     institution:  Eberhard Karls Universität Tübingen
       year: 2018
 
-- title: Bachelor
+- title: 
   type: time_table
   contents:
     - title: Professor of Theoretical Physics
