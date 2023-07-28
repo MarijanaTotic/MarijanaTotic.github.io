@@ -4,32 +4,32 @@
     - name: Name
       value: Marijana Totić
     - name: Geburtstag
-      value: 20th July 1996
-    - name: Languages
+      value: 20th Juli 1996
+    - name: Sprachen
       value: Deutsch, Kroatisch, Englisch, Spanisch, Französisch
 
-- title: Education
+- title: Bildung
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Pädagogische Hochschule Schwäbisch Gmund
+      year: 2021--
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Germanistik und Interkulturalität / Multilingualität
+        #- Description 2.
+        #- title: Description 3.
+         # contents:
+          #  - Sub-description 1.
+           # - Sub-description 2.
+    - title: Mastertitel
+    institution:  Pädagogische Hochschule Schwäbisch Gmund
+      year: 2021
+     # description:
+      #  - Description 1.
+       # - Description 2.
 
-- title: Experience
-  type: time_table
+- title: Bachelor
+ # type: time_table
   contents:
     - title: Professor of Theoretical Physics
       institution: Institute for Advanced Study, Princeton University
