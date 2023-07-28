@@ -20,13 +20,10 @@
     - title: Mastertitel
     institution:  Pädagogische Hochschule Schwäbisch Gmünd
       year: 2021
-     # description:
-      #  - Description 1.
-       # - Description 2.
+     
 
     institution:  Eberhard Karls Universität Tübingen
       year: 2018
-     # description:
 
 - title: Bachelor
   type: time_table
