@@ -1,12 +1,12 @@
-- title: General Information
+- title: Persönliche Daten 
   type: map
   contents:
-    - name: Full Name
-      value: Mariana Totić
-    - name: Date of Birth
+    - name: Name
+      value: Marijana Totić
+    - name: Geburtstag
       value: 20th July 1996
     - name: Languages
-      value: German, Croatian, English, Spanish, French
+      value: Deutsch, Kroatisch, Englisch, Spanisch, Französisch
 
 - title: Education
   type: time_table
