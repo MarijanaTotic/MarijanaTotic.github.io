@@ -21,6 +21,8 @@ Eine inhalts- und gesprächsanalytische Untersuchung sprachbiografischer Intervi
   
 <p>
 Betreuer
+</p>  
+<p>
 - Prof. Dr. habil. Daniel Hugo Rellstab
 </p>
 
