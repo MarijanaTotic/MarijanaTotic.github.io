@@ -1,7 +1,8 @@
 ---
 layout: page
 permalink: /Dissertation/
-title: Arbeitstitel der laufenden Dissertation
+title: Dissertation
+description: Arbeitstitel der laufenden Dissertation
 description: „Beide Sprachen gehören mir, beides ist meins!“
 nav: true
 nav_order: 1
@@ -11,6 +12,7 @@ nav_order: 1
 
 Der Wert von Familien- und Umgebungssprache für die kroatische Diaspora in Stuttgart. 
 Eine inhalts- und gesprächsanalytische Untersuchung sprachbiografischer Interviews zweier Generationen.
+</div>
 
 
 Betreuer
@@ -26,4 +28,4 @@ Das Ziel der Arbeit ist es einen Einblick in das mehrsprachige Leben der ersten 
 
 
 In dieser Forschungsarbeit werden die wissenschaftliche Felder der Soziolinguistik, der Migrationsforschung und der Kulturforschung tangiert.
-</div>
+
