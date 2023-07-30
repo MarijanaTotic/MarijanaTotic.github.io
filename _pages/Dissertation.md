@@ -20,7 +20,7 @@ Eine inhalts- und gesprächsanalytische Untersuchung sprachbiografischer Intervi
 </p>
   
 <p>
-<b><a href='#'>Betreuer</a></b> 
+<b><a href='#'>Betreuer</a></b> <br>
 - Prof. Dr. habil. Daniel Hugo Rellstab
 </p>
 
