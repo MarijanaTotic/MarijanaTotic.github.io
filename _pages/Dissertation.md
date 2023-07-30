@@ -28,7 +28,7 @@ Eine inhalts- und gesprächsanalytische Untersuchung sprachbiografischer Intervi
 <br>
 
 <h4>
-<b><a href='#'>Abstract</a></b> 
+<a href='#'>Abstract</a>
 </h4>
 
 <p align="justify">
