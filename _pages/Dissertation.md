@@ -19,15 +19,17 @@ Der Wert von Familien- und Umgebungssprache für die kroatische Diaspora in Stut
 Eine inhalts- und gesprächsanalytische Untersuchung sprachbiografischer Interviews zweier Generationen.
 </p>
   
-<p class="btr">
-Betreuer <br>
+<p>
+<b><a href='#'>Betreuer</a></b> 
 - Prof. Dr. habil. Daniel Hugo Rellstab
 </p>
 
 <br>
 
 <p>
-<b>Abstract</b> 
+<b><a href='#'>Abstract</a></b> 
+
+
 </p>
 
 <p align="justify">
