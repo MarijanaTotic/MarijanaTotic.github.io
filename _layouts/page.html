@@ -9,6 +9,11 @@ layout: default
             <p class="post-description">{{ page.description }}</p>
           </header>
 
+        {% if page.betreuer -%}
+            <h2><a href="{{ '/Dissertation/' | relative_url }}" style="color: inherit;">betreuer</a></h2>
+            {%- include betreuer %}
+          {%- endif %}
+
           <article>
             {{ content }}
           </article>
