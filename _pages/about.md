@@ -27,7 +27,7 @@ Die Schwerpunkte meiner Forschung sind:
 
 
 Darüber hinaus arbeite ich an der [Universität Stuttgart](https://www.uni-stuttgart.de) als
-Projektmanagerin des GREAT Projektes (http://itn-great.eu/), das von der Europäischen Union
+Projektmanagerin des [GREAT Projektes](http://itn-great.eu/), das von der Europäischen Union
 gefördert wird.
 
 Zu meinen Stärken gehören meine Organisations- und Teamfähigkeit, meine Eigenmotivation und
