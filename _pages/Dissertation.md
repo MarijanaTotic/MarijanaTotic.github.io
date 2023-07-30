@@ -8,7 +8,6 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/Dissertation.md -->
-<div class="Dissertation">
 
 <p align="justify">
 <b>„Beide Sprachen gehören mir, beides ist meins!“</b> 
@@ -43,4 +42,3 @@ Das Ziel der Arbeit ist es einen Einblick in das mehrsprachige Leben der ersten 
 <p align="justify">
 In dieser Forschungsarbeit werden die wissenschaftliche Felder der Soziolinguistik, der Migrationsforschung und der Kulturforschung tangiert.
 </p>
-</div>
