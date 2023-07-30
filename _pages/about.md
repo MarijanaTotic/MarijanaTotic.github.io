@@ -17,6 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+<br>
 Ich bin Doktorandin an der [Pädagogischen Hochschule Schwäbisch Gmünd](https://www.ph-gmuend.de). 
 
 Die Schwerpunkte meiner Forschung sind:
