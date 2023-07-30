@@ -9,10 +9,7 @@ layout: default
             <p class="post-description">{{ page.description }}</p>
           </header>
 
-        {% if page.betreuer -%}
-            <h2><a href="{{ '/Dissertation/' | relative_url }}" style="color: inherit;">betreuer</a></h2>
-            {%- include betreuer %}
-          {%- endif %}
+            <p class="btr" style="color: #728bfc;">{{ page.description }}</p>
 
           <article>
             {{ content }}
