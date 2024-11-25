@@ -9,8 +9,10 @@ nav_order: 1
 
  
 <h5>
-<a href='#'>Vortrag "Beide Sprachen gehören mir, beides ist meins!" Der Wert von Familien- und Umgebungssprachen für die kroatische Diaspora in Stuttgart an dem 71. Treffen des Arbeitskreises Angewandte Gesprächsforschung (AAG)</a>
+<a href='#'>Vortrag "Beide Sprachen gehören mir, beides ist meins!" Der Wert von Familien- und Umgebungssprachen für die kroatische Diaspora in Stuttgart <br>
+</a>
 </h5>
+71. Treffen des Arbeitskreises Angewandte Gesprächsforschung (AAG)<br>
 am 1. Dezember 2023 an der Universität zu Köln <br>
 
 <p align="justify">

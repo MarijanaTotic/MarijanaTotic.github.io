@@ -32,6 +32,6 @@ Die Dissertation befasst sich mit der (migrationsbedingten) Mehrsprachigkeit der
 </p>
 
 <p align="justify">
-Um diese Forschungsfragen zu beantworten, werden leitfadengestützte Einzel- und Gruppeninterviews mit zwei Generationen geführt. Die Sprachbiografien werden inhalts- und gesprächsanalytisch untersucht. Die Analyse, die nach einer thematischen Strukturierung erfolgt, fokussiert den Inhalt, die Argumente und die Gesprächsstruktur der Aussagen der Befragten sowie die Körpersprache der Interviewten. Insbesondere werden die Selbst- und Fremdpositionierungen untersucht.
+Um diese Forschungsfragen zu beantworten, werden leitfadengestützte Einzel- und Gruppeninterviews mit zwei Generationen geführt. Die Sprachbiografien werden inhalts- und gesprächsanalytisch untersucht. Die Analyse, die nach einer thematischen Strukturierung erfolgt, fokussiert den Inhalt, die Argumente und die Gesprächsstruktur der Aussagen der Befragten sowie die Körpersprache der Interviewten. Insbesondere werden die Selbst- und Fremdpositionierungen eruiert.
 </p>
 
