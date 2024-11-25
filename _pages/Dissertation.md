@@ -10,7 +10,7 @@ nav_order: 1
 
 
 <h3>„Beide Sprachen gehören mir, beides ist meins!“</h3>
-
+<br>
 <p align="justify">
 Der Wert von Familien- und Umgebungssprache für die kroatische Diaspora in Stuttgart. 
 Eine inhalts- und gesprächsanalytische Untersuchung sprachbiografischer Interviews zweier Generationen.

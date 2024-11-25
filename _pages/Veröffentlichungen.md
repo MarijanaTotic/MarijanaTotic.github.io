@@ -39,7 +39,7 @@ am 30. November und 1. Dezember 2023 an der Universität zu Köln <br>
 </a>
 </h5> 
 am 25. und 26. Januar 2024 am Institut für den Situationsansatz in der Internationalen Akademie Berlin gGmbH Berlin<br>
-Leitung: Arnulf Deppermann <br>
+<p>Leitung: Arnulf Deppermann </p>
 <p>
 <a href="https://qualitative-forschung.de/event/ws-ka-24">Weitere Informationen</a>
 </p>
