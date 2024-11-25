@@ -32,6 +32,7 @@ am 30. November und 1. Dezember 2023 an der Universität zu Köln <br>
 <p>
 <a href="http://www.gespraechsforschung-online.de/fileadmin/dateien/heft2024/tb-aag71.pdf">Weitere Informationen</a>
 <br>
+<br>
 
 <h5>
 <a href='#'>Vortrag "Die Konstruktion der nationalen und kulturellen Identität und Zugehörigkeit der kroatischen Diaspora in Stuttgart" sowie Datensitzung am Workshop 'Konversationsanalyse' 

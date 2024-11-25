@@ -8,9 +8,8 @@ nav_order: 1
 ---
 <!-- _pages/Dissertation.md -->
 
-<p align="justify">
-<b>„Beide Sprachen gehören mir, beides ist meins!“</b> 
-</p>
+
+<h3>„Beide Sprachen gehören mir, beides ist meins!“</h3>
 
 <p align="justify">
 Der Wert von Familien- und Umgebungssprache für die kroatische Diaspora in Stuttgart. 
