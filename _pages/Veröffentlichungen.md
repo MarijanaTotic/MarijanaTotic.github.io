@@ -12,8 +12,8 @@ nav_order: 1
 <a href='#'>Vortrag "Beide Sprachen gehören mir, beides ist meins!" Der Wert von Familien- und Umgebungssprachen für die kroatische Diaspora in Stuttgart <br>
 </a>
 </h5>
-71. Treffen des Arbeitskreises Angewandte Gesprächsforschung (AAG)<br>
-am 1. Dezember 2023 an der Universität zu Köln <br>
+<p align="justify"> 71. Treffen des Arbeitskreises Angewandte Gesprächsforschung (AAG)<br>
+am 1. Dezember 2023 an der Universität zu Köln </p>
 
 <p align="justify">
 "Marijana Totić zeigte in ihrem Vortrag, wie die kroatische Diaspora in Stuttgart ihre nationale und kulturelle Identität und Zugehörigkeit konstruiert und inwiefern es in den Identitätskonstruktionen Gemeinsamkeiten und Unterschiede zwischen der ersten und zweiten Generation von in Stuttgart lebenden Kroat*innen gibt. Die in ihrer Arbeit der ersten Generation zugeordneten Personen sind zwischen 1961 und 1979 geboren, haben den ehemaligen Staat Jugoslawien und dessen Zerfall sowie den Kroatienkrieg miterlebt und sind nach Deutschland migriert, während die der zweiten Generation zugeordneten Personen zwischen 1993 und 2003 in Deutschland geboren sind, Jugoslawien und den Krieg maximal als Kleinkind oder gar nicht miterlebt haben und kein oder maximal ein Jahr im Herkunftsland gelebt
