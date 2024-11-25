@@ -37,7 +37,7 @@ am 30. November und 1. Dezember 2023 an der Universität zu Köln <br>
 <br>
 
 <h5>
-<a href='#'>Vortrag "Die Konstruktion der nationalen und kulturellen Identität und Zugehörigkeit der kroatischen Diaspora in Stuttgart" samt Datensitzung</a></h5>
+<a href='#'>Vortrag "Die Konstruktion der nationalen und kulturellen Identität und Zugehörigkeit der kroatischen Diaspora in Stuttgart" samt Datensitzung </a></h5>
 Workshop 'Konversationsanalyse' <br>
 am 25. und 26. Januar 2024 am Institut für den Situationsansatz in der Internationalen Akademie Berlin GmbH Berlin<br>
 <p>Leitung: Arnulf Deppermann </p>
