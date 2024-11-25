@@ -48,10 +48,15 @@ layout: default
 
           <!-- Latest posts -->
           {% if page.latest_posts -%}
-            <h2><a href="{{ '/Dissertation/' | relative_url }}" style="color: inherit;">latest posts</a></h2>
+            <h2><a href="{{ '/Dissertation/' | relative_url }}" style="color: inherit;">Dissertation</a></h2>
             {%- include latest_posts.html %}
           {%- endif %}
 
+          <!-- Latest posts -->
+          {% if page.latest_posts -%}
+            <h2><a href="{{ '/Veröffentlichungen/' | relative_url }}" style="color: inherit;">Veröffentlichungen</a></h2>
+            {%- include latest_posts.html %}
+          {%- endif %}
 
           <!-- Social -->
           {%- if page.social %}

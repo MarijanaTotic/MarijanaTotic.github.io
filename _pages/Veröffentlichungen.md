@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /Dissertation/
-title: Dissertation
-description: Arbeitstitel der laufenden Dissertation
+permalink: /Veröffentlichungen/
+title: Veröffentlichungen
+description: Veröffentlichungen
 nav: true
 nav_order: 1
 ---
@@ -38,3 +38,4 @@ Die Dissertation befasst sich mit der (migrationsbedingten) Mehrsprachigkeit der
 Um diese Forschungsfragen zu beantworten, werden leitfadengestützte Einzel- und Gruppeninterviews mit zwei Generationen geführt. Die Sprachbiografien werden inhalts- und gesprächsanalytisch untersucht. Die Analyse, die nach einer thematischen Strukturierung erfolgt, fokussiert den Inhalt, die Argumente und die Gesprächsstruktur der Aussagen der Befragten sowie die Körpersprache der Interviewten. Insbesondere werden die Selbst- und Fremdpositionierungen untersucht.
 </p>
 
+Veröffentlichungen
