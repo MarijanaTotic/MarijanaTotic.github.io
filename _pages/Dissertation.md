@@ -2,7 +2,7 @@
 layout: page
 permalink: /Dissertation/
 title: Dissertation
-description: Arbeitstitel der laufenden Dissertation
+description:
 nav: true
 nav_order: 1
 ---
@@ -23,8 +23,6 @@ Eine inhalts- und gesprächsanalytische Untersuchung sprachbiografischer Intervi
 <p align="justify">
 - Prof. Dr. habil. Daniel Hugo Rellstab
 </p>
-
-<br>
 
 <h5>
 <a href='#'>Abstract</a> <br>

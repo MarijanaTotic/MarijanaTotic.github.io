@@ -12,7 +12,7 @@ nav_order: 1
 <a href='#'>Vortrag "Beide Sprachen gehören mir, beides ist meins!" Der Wert von Familien- und Umgebungssprachen für die kroatische Diaspora in Stuttgart an dem 71. Treffen des Arbeitskreises Angewandte Gesprächsforschung (AAG)</a>
 </h5>
 am 1. Dezember 2023 an der Universität zu Köln <br>
-<br>
+
 <p align="justify">
 "Marijana Totić zeigte in ihrem Vortrag, wie die kroatische Diaspora in Stuttgart ihre nationale und kulturelle Identität und Zugehörigkeit konstruiert und inwiefern es in den Identitätskonstruktionen Gemeinsamkeiten und Unterschiede zwischen der ersten und zweiten Generation von in Stuttgart lebenden Kroat*innen gibt. Die in ihrer Arbeit der ersten Generation zugeordneten Personen sind zwischen 1961 und 1979 geboren, haben den ehemaligen Staat Jugoslawien und dessen Zerfall sowie den Kroatienkrieg miterlebt und sind nach Deutschland migriert, während die der zweiten Generation zugeordneten Personen zwischen 1993 und 2003 in Deutschland geboren sind, Jugoslawien und den Krieg maximal als Kleinkind oder gar nicht miterlebt haben und kein oder maximal ein Jahr im Herkunftsland gelebt
 haben. 
@@ -30,7 +30,7 @@ Bericht über das 71. Treffen des Arbeitskreises Angewandte Gesprächsforschung 
 zum Thema 'Über Sprache und sprachliches Handeln sprechen' <br>
 am 30. November und 1. Dezember 2023 an der Universität zu Köln <br>
 <p>
-Weitere Informationen unter <a href='http://www.gespraechsforschung-online.de/fileadmin/dateien/heft2024/tb-aag71.pdf'></a>http://www.gespraechsforschung-online.de/fileadmin/dateien/heft2024/tb-aag71.pdf</p>
+<a href="http://www.gespraechsforschung-online.de/fileadmin/dateien/heft2024/tb-aag71.pdf">Weitere Informationen</a>
 <br>
 
 <h5>
@@ -40,7 +40,7 @@ Weitere Informationen unter <a href='http://www.gespraechsforschung-online.de/fi
 am 25. und 26. Januar 2024 am Institut für den Situationsansatz in der Internationalen Akademie Berlin gGmbH Berlin<br>
 Leitung: Arnulf Deppermann <br>
 <p>
-Weitere Informationen unter [https://qualitative-forschung.de/event/ws-ka-24/](https://qualitative-forschung.de/event/ws-ka-24/)
+<a href="https://qualitative-forschung.de/event/ws-ka-24">Weitere Informationen</a>
 </p>
 <br>
 
@@ -48,7 +48,7 @@ Weitere Informationen unter [https://qualitative-forschung.de/event/ws-ka-24/](h
 <a href='#'>Datensitzung "Mehrsprachigkeitsempfinden der kroatischen Diaspora in Stuttgart im Generationenvergleich" am 9. Doktorandentreff der Gesprächsforschung</a>
 </h5>
 am 26.04.2024 an der Albert-Ludwigs-Universität in Freiburg<br>
-<br>
+
 <p align="justify">
 "Marijana Totić (Pädagogische Hochschule Schwäbisch Gmünd) stellte selbst erhobene Videodaten vor, die dyadische Interviews zeigen, in denen sie selbst als Interviewerin auftritt und mit jeweils einer anderen Person spricht. Die Interviewten, die zur kroatischen Diaspora
 in Stuttgart gehören und mehrsprachig (mit Kroatisch und Deutsch) aufgewachsen sind, wurden darin zu ihren Spracheinstellungen befragt. Dabei waren die Teilnehmenden in ihren Antworten frei, hatten also beispielsweise keine Vorgaben dazu, wie ausführlich eine Antwort sein muss.
