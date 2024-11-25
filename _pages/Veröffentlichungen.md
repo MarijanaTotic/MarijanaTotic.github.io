@@ -20,7 +20,7 @@ am 1. Dezember 2023 an der Universität zu Köln <br>
 haben. 
 </p>
 <p align="justify">
-Totić präsentierte Transkriptausschnitte aus zwanzig erhobenen Sprachbiografien, die die jeweilige Staatsangehörigkeit, Familienabstammung und das nationale und kulturelle Zugehörigkeitsgefühl thematisieren. Die Daten wurden mittels Inhalts- und Gesprächsanalyse untersucht. Im Vortrag stellte Totić erste Ergebnisse dar: Unter anderem konnte herausgearbeitet werden, dass Identitäten in der sprachlichen Interaktion geformt und aufrechterhalten werden und sich dabei von Moment zu Moment in den sich entfaltenden Gesprächen ändern können. Im Generationenvergleich fällt auf, dass sich Personen, die der ersten Generation zugeordnet wurden, schneller und eindeutiger als die zweite Generation positionieren. Personen der zweiten Generation dagegen fällt eine Zuordnung überwiegend sehr schwer, sie konstruieren eher transnationale Identitäten (vgl. Tseng 2015; Spitulnik 1998; Hurst 2009), in der familiäre und außerfamiliäre Werte, Normen, Kulturen sowie Sprachen miteinander verschmelzen (vgl. Badawia 2002, 2003; Erfurt 2003). Insgesamt drückt sich ein Wunsch nach Integration und Mitgliedschaft in verschiedenen Gruppen aus. Darüber hinaus begründen die Interviewten deutsche Selbstpositionierungen mit rationalen Argumenten und/oder mit stereotypischen Zuordnungen, während sie kroatische Selbstpositionierungen mit emotionalen und abstammungsbasierten Argumenten untermauern. Ein Augenmerk wurde zudem auf das CodeSwitching in Positionierungen gesetzt, das die befragten Personen häufig für sprachliche Bekräftigungen der Selbstpositionierungen nutzen. Des Weiteren wurde auf die Delegitimierung der nationalen Identität durch den Geburtsort sowie
+Totić präsentierte Transkriptausschnitte aus zwanzig erhobenen Sprachbiografien, die die jeweilige Staatsangehörigkeit, Familienabstammung und das nationale und kulturelle Zugehörigkeitsgefühl thematisieren. Die Daten wurden mittels Inhalts- und Gesprächsanalyse untersucht. Im Vortrag stellte Totić erste Ergebnisse dar: Unter anderem konnte herausgearbeitet werden, dass Identitäten in der sprachlichen Interaktion geformt und aufrechterhalten werden und sich dabei von Moment zu Moment in den sich entfaltenden Gesprächen ändern können. Im Generationenvergleich fällt auf, dass sich Personen, die der ersten Generation zugeordnet wurden, schneller und eindeutiger, als die zweite Generation positionieren. Personen der zweiten Generation dagegen fällt eine Zuordnung überwiegend sehr schwer, sie konstruieren eher transnationale Identitäten (vgl. Tseng 2015; Spitulnik 1998; Hurst 2009), in der familiäre und außerfamiliäre Werte, Normen, Kulturen sowie Sprachen miteinander verschmelzen (vgl. Badawia 2002, 2003; Erfurt 2003). Insgesamt drückt sich ein Wunsch nach Integration und Mitgliedschaft in verschiedenen Gruppen aus. Darüber hinaus begründen die Interviewten deutsche Selbstpositionierungen mit rationalen Argumenten und/oder mit stereotypischen Zuordnungen, während sie kroatische Selbstpositionierungen mit emotionalen und abstammungsbasierten Argumenten untermauern. Ein Augenmerk wurde zudem auf das Code-Switching in Positionierungen gesetzt, das die befragten Personen häufig für sprachliche Bekräftigungen der Selbstpositionierungen nutzen. Des Weiteren wurde auf die Delegitimierung der nationalen Identität durch den Geburtsort sowie
 die im Alltag hauptsächlich genutzte Umgebungssprache und die Denksprache eingegangen. Im Anschluss an den Vortrag wurde diskutiert, wie die Bezeichnungen 'erste' und 'zweite' Generation durch Alternativen ersetzt werden könnten und wie man die Bestimmtheit nationaler Selbstpositionierungen in einem Kontinuum veranschaulichen könnte."
 </p>
 <br>
@@ -32,18 +32,17 @@ Bericht über das 71. Treffen des Arbeitskreises Angewandte Gesprächsforschung 
 zum Thema 'Über Sprache und sprachliches Handeln sprechen' <br>
 am 30. November und 1. Dezember 2023 an der Universität zu Köln <br>
 <p>
-<a href="http://www.gespraechsforschung-online.de/fileadmin/dateien/heft2024/tb-aag71.pdf">Weitere Informationen</a>
+<a href="http://www.gespraechsforschung-online.de/fileadmin/dateien/heft2024/tb-aag71.pdf">Link zum Tagungsbericht</a>
 <br>
 <br>
 
 <h5>
-<a href='#'>Vortrag "Die Konstruktion der nationalen und kulturellen Identität und Zugehörigkeit der kroatischen Diaspora in Stuttgart" sowie Datensitzung am Workshop 'Konversationsanalyse' 
-</a>
-</h5> 
-am 25. und 26. Januar 2024 am Institut für den Situationsansatz in der Internationalen Akademie Berlin gGmbH Berlin<br>
+<a href='#'>Vortrag "Die Konstruktion der nationalen und kulturellen Identität und Zugehörigkeit der kroatischen Diaspora in Stuttgart"</a></h5>
+samt Datensitzung am Workshop 'Konversationsanalyse' <br>
+am 25. und 26. Januar 2024 am Institut für den Situationsansatz in der Internationalen Akademie Berlin GmbH Berlin<br>
 <p>Leitung: Arnulf Deppermann </p>
 <p>
-<a href="https://qualitative-forschung.de/event/ws-ka-24">Weitere Informationen</a>
+<a href="https://qualitative-forschung.de/event/ws-ka-24">Link zum Workshop</a>
 </p>
 <br>
 
