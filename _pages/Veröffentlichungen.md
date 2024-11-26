@@ -47,10 +47,9 @@ am 25. und 26. Januar 2024 am Institut für den Situationsansatz in der Internat
 <br>
 
 <h5>
-<a href='#'>Datensitzung "Mehrsprachigkeitsempfinden der kroatischen Diaspora in Stuttgart im Generationenvergleich" am 9. Doktorandentreff der Gesprächsforschung</a>
-</h5>
-
-<p>am 26. April 2024 an der Albert-Ludwigs-Universität in Freiburg</p>
+<a href='#'>Datensitzung "Mehrsprachigkeitsempfinden der kroatischen Diaspora in Stuttgart im Generationenvergleich" </a></h5>
+<p align="justify"> 9. Doktorandentreff der Gesprächsforschung <br>
+am 26. April 2024 an der Albert-Ludwigs-Universität in Freiburg </p>
 
 <p align="justify">
 "Marijana Totić (Pädagogische Hochschule Schwäbisch Gmünd) stellte selbst erhobene Videodaten vor, die dyadische Interviews zeigen, in denen sie selbst als Interviewerin auftritt und mit jeweils einer anderen Person spricht. Die Interviewten, die zur kroatischen Diaspora
