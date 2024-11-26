@@ -48,7 +48,7 @@ am 25. und 26. Januar 2024 am Institut für den Situationsansatz in der Internat
 
 <h5>
 <a href='#'>Datensitzung "Mehrsprachigkeitsempfinden der kroatischen Diaspora in Stuttgart im Generationenvergleich" </a></h5>
-<p align="justify"> 9. Doktorandentreff der Gesprächsforschung <br>
+<p align="justify">9. Doktorandentreff der Gesprächsforschung <br>
 am 26. April 2024 an der Albert-Ludwigs-Universität in Freiburg </p>
 
 <p align="justify">
